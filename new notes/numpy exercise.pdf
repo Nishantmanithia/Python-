@@ -1,0 +1,2294 @@
+%PDF-1.4
+%öäüß
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/OpenAction 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Title (Numpy Exercise )
+/Producer (Skia/PDF m110 Google Docs Renderer)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 5
+/Kids [5 0 R 6 0 R 7 0 R 8 0 R 9 0 R]
+>>
+endobj
+3 0 obj
+<<
+/Type /Action
+/S /JavaScript
+/JS (this.print\({bUI:true,bSilent:false,bShrinkToFit:true}\);)
+>>
+endobj
+5 0 obj
+<<
+/Type /Page
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/G3 10 0 R
+/G6 11 0 R
+>>
+/Font <<
+/F4 12 0 R
+/F5 13 0 R
+>>
+>>
+/MediaBox [0 0 596 842]
+/Annots [14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R
+24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R
+34 0 R 35 0 R 36 0 R 37 0 R 38 0 R]
+/Contents 39 0 R
+/StructParents 0
+/Parent 2 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/G3 10 0 R
+/G6 11 0 R
+>>
+/Font <<
+/F4 12 0 R
+/F5 13 0 R
+>>
+>>
+/MediaBox [0 0 596 842]
+/Annots [40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R
+50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R
+60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R]
+/Contents 67 0 R
+/StructParents 1
+/Parent 2 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Page
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/G3 10 0 R
+/G6 11 0 R
+>>
+/Font <<
+/F4 12 0 R
+/F5 13 0 R
+>>
+>>
+/MediaBox [0 0 596 842]
+/Annots [68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R
+78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R
+88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R]
+/Contents 94 0 R
+/StructParents 2
+/Parent 2 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/G3 10 0 R
+/G6 11 0 R
+>>
+/Font <<
+/F4 12 0 R
+/F5 13 0 R
+>>
+>>
+/MediaBox [0 0 596 842]
+/Annots [95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R
+105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R
+115 0 R 116 0 R 117 0 R 118 0 R]
+/Contents 119 0 R
+/StructParents 3
+/Parent 2 0 R
+>>
+endobj
+9 0 obj
+<<
+/Type /Page
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/G3 10 0 R
+/G6 11 0 R
+>>
+/Font <<
+/F4 12 0 R
+/F5 13 0 R
+>>
+>>
+/MediaBox [0 0 596 842]
+/Annots [120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 128 0 R 129 0 R
+130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R]
+/Contents 136 0 R
+/StructParents 4
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/ca 1
+/BM /Normal
+>>
+endobj
+11 0 obj
+<<
+/CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW 4
+/ML 10
+/SA true
+/BM /Normal
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /AAAAAA+Georgia-Bold
+/Encoding /Identity-H
+/DescendantFonts [137 0 R]
+/ToUnicode 138 0 R
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+Georgia
+/Encoding /Identity-H
+/DescendantFonts [139 0 R]
+/ToUnicode 140 0 R
+>>
+endobj
+14 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [149.748047 728.79315 155.537109 742.42792]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 708.341 74.894531 721.97577]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-1.php)
+>>
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [389.33203 687.88885 395.12109 701.52362]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+17 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 667.43671 74.894531 681.07147]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-2.php)
+>>
+>>
+endobj
+18 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [100.640625 626.53241 106.429688 640.16718]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+19 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 606.08026 74.894531 619.71503]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-3.php)
+>>
+>>
+endobj
+20 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [125.777344 565.17596 131.566406 578.81073]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+21 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 544.72382 74.894531 558.35858]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-4.php)
+>>
+>>
+endobj
+22 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [212.13281 503.81952 217.92188 517.45428]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+23 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 483.36737 74.894531 497.00214]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-5.php)
+>>
+>>
+endobj
+24 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [496.42383 462.91522 502.21289 476.54999]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+25 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 442.46304 74.894531 456.09781]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-6.php)
+>>
+>>
+endobj
+26 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [459.76758 422.01089 465.55664 435.64566]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+27 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 401.55875 74.894531 415.19351]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-7.php)
+>>
+>>
+endobj
+28 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [457.53516 360.65445 463.32422 374.28922]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+29 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 340.2023 74.894531 353.83707]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-8.php)
+>>
+>>
+endobj
+30 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [136.21875 299.29797 142.007813 312.93274]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+31 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 278.84583 74.894531 292.48059]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-9.php)
+>>
+>>
+endobj
+32 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [367.65234 237.94153 373.44141 251.57629]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+33 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 217.48938 74.894531 231.12415]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-10.php)
+>>
+>>
+endobj
+34 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [280.61133 176.58508 286.40039 190.21985]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+35 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 156.132935 74.894531 169.7677]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-11.php)
+>>
+>>
+endobj
+36 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [371.71289 115.228638 377.50195 128.863403]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+37 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 94.776489 74.894531 108.411255]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-12.php)
+>>
+>>
+endobj
+38 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [470.32617 74.324341 476.11523 87.959106]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+39 0 obj
+<<
+/Length 2374
+/Filter /FlateDecode
+>>
+stream
+xœÝ[]oëÈ}÷¯ðs;;œ!ç(
+$ÙÞ}n ? í.Pôèöÿ=#Kò8±Hì½MÄ±dŠâÇá!gDgï/„_…ÃùoßNÿ9¹,Ó»Ë_¼IçöýçŸÎ—¿þrúá§xþå¿§v<W>…xþõ§ŸOú !œàˆjåjˆúâHj%:'\ÂW=‡êbûâMùµ:ÉÁ[âq’ö1	§à¢­½!âL¼ {Ç9Ål_ E¡RJ“Ÿ¼ƒQ%Ë>¾JÈðÓ þ…\,>Yâ¿8ñY
+§8$>xr%†,íC¥0r¡pÍ¦òðO-~Ð6ˆ—c&Sù(žáØ2&=EG¥[ù !æê˜ø]bbSyÎÅ×ÀiHzôŒ€‹b+OsÇ´G&:aà‚¥}ò’jJcq™]­¹$3§<Ì|¤±¨I‹÷dc‚÷À‹ËXÄUÈ„L‚›b¢:&ž}BD3Î°´çŒà‰ÉpÌz‚°GÆŽ>snL¶ò‚õÇ"‡Sv™|6Ñ>JÌ27 GHôhCå¼—!ñâ‹K$d…¥Bþ•4æWÁ)>å`%*m©P£”1HQ Ê¦ö‰}«—cqq5“Ø€RÒ°~Ì³RA€â6" l
+øÄXX&ò® <‹‰I`?XSI0ð æÐ°~L¸C	"SwäC=Ò×Ù=dçA¨Lçä¹Ydƒ/¾ÁÆˆôL`1Ù	E%ø4Ã9F‡Ì¦êÂ…=×1§f?@î ÝóUpc]~“-Uœtýþõwçß«¿í²óE^ßO?|e†óûÏ'Z:&¢„Û¯	íÏïßš*`òTðþ÷óïQ—	 ¯¡{‰øykÅºQ¼~õ |ø‹ƒŒ"Î8&íoùÃùýŸ§?¾Ci«—êõýýüª±K™š£.j¡ãðÕâË|ùvéÜ_ú¾ÄDhÐRMÁÌº (&EBo±8YL—vêp;šR“á!OPíx¹cn—ÐE‡–;¹"˜6%ç&Õ³›>²i³—9²!(0ÂÆ#5uøÕv#ìáZý¡mIŸâÖˆSšg·%Ök´Ëí~.™§þL‹˜É•Ð—û±WP^”@IûMz½èÒÄn+öÏ²!ª6èCR$¶~ Il¶ã¯ý3‘ƒ0ÑPéâ#¼®óu_æ»Z’(÷¾l°¢èt;é8
+^r¯†£Ÿìò~Ól:þ	M.ïoCÂ|<_Žµ×“¼5Gçÿgìn^ùœÅËç—s}8_~¦ÿë¬ÍV²b?o9jÄÔ_dZ·o¸p ´“
+‚Vá@îVå‡p¹N‹ÂáÛl (öÛU84ÍæX—´£n(°VÆ^®ÑÚG®ˆúTˆfYÄªJÀg£†4?TCJF¹m~}¸J‚±:•ëÌùÏsÐñœÏ“o“!;G§¹wÇr%Wµjf¥”àþŠTp~•™¼uµÛ áìŒ,ŸjI$«$–ê’N8ßzc[Óãƒ`)?vÜ%è|3ñ=ŠÎy:»@^sß0HËDw‹6½'Ôç´MQÇQº³ÀïÖ{¥Å]æ²¢ôä~V'×( ¢ÓQ¬`è^Ìøeq}!‹GïÂirFõÝÛÍ€éÖ¤yà!¤NàÑ€IÅ¿{À@rdEG­£Q×Ž µºNãp­ó®û­£pÝ‘ŽÆÇ‡àûfUê(|¾‘Ž*›Åîlf·. 'úlçÈdFôaÏñÉ¬GùQ‚IõÁp£ÃÑgE–ÂR<Ÿ–à1DWƒ®ÓX‚G„Y©Eƒj§\\î!Ù1Í©¸ÔH3Ý(~\Åê?çñÆÔ¨tÃ„Kã2Ç€Q*%¢Öù×´áÍÍÚõÑéÍr;wnmƒ„‹ó§×«bÛ3”6Z Ô¿YPÚ/a…Òú}‡=·9?ËŠénÀÓw1vêôïrùž3¦ë¾|³uç[Vs³BÔ9/ÿÎiºµkFº:¢Óëÿ|¯Ço!Ô2|¿»à¨á_wô‡¥í2xjñùÇúÃäÒ³ûCø­úCïòãý!úôüÄþÐ» ö‡Ï,À‘kãÂFÙÜS€cŽ.F­‹Z×æÕ’õ^Ò“eßúÕ,à¿Z]WvzÈË,qšð[Òb±zÉM]5Dé7í™†¼ya›/®“¤ÃööcŸ[†Zëbº•3…{ZÜt½‡µÄ¼Ía·Q‹b¤BûÍæ¨£Ðþ¶ÚƒŽ }.(¸bC;¡#S2å´óÈG =¨‹ò{¡=¨ýÉ´lnùð2ú\•	LwûbßqdrÜv[t”Þì›bŽ¼bZ£KHÏ,BfQkÒùö»
+„ˆÑñ®ú-þŸx¿†Iý–Ê£$û.¾pqò¼ŠÍÅÈ~‡ä#{—¢’‘\I: ‚d	®D}ÁÌ IòK >ŸH€Ñdcã(JÆl,îBÉ&G(S¨tK£öø""Ó“>-coOÈ8X[nž9Ïâ¶k][ˆÿD‚¹‹Ðu3Ž5Ö÷Î«$³M¡Ö8¸±ùÌy¾j)ÜïB>Š'ÊÅ9ÜƒÍ¦ÔLèg¤[’wÙvÿœM™Ýl!¿×R8N‚%ø×m‚~ýxÇò‚¸ª3œQôCgìÀ1—ª{îÖO™v¬?÷ÀëªÊrvá¸RsR-à^¨díˆØƒ{”œW_ŸŠ{¸š±Ñä¸‡VÔAÝ€‹•µ
+¦.xoó<ëa…£íú]ø¡åÝÁÖ¾?öO;<‚²³«ºß†1P¬-ƒ"}UP†@cØC¨2£}è'<½Ëú–ú](ÖpstuTZ«e5ðkÖZ»Z²k’ëKÜ»ö1†äôFhÊìepWîdí`ÌÆ’jKSZ¹¢©mÉh¸RÄL±gÞÛž&QÛŠµý´†™¾üòù¹ãù­£l{a×ËžJú²dX®¸ßïY_—*ìÞûP'nÎ_h‚÷ëø´_gæy;áÛ<¦Ò~aíýùwöÏ­²Ý<<öHIßw‰ó>Þ¶9[ùè %T§÷?ìº,~|8gÝ¨}=þQÎºÖ\¯çÝ:¢Ùsø)»ÔüCðóôü^*ço'.â.ð]ßý×é/ÓcqÿÖ{Ê‹
+endstream
+endobj
+40 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 749.24524 74.894531 762.88]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-13.php)
+>>
+>>
+endobj
+41 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [473.18555 728.79309 478.97461 742.42786]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+42 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 708.34094 74.894531 721.97571]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-14.php)
+>>
+>>
+endobj
+43 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [518.99414 687.88879 524.7832 701.52356]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+44 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 667.43665 74.894531 681.07141]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-15.php)
+>>
+>>
+endobj
+45 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [388.54102 646.9845 394.33008 660.61926]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+46 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 626.53235 74.894531 640.16711]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-16.php)
+>>
+>>
+endobj
+47 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [475.19531 606.0802 480.98438 619.71497]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+48 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 585.62805 74.894531 599.26282]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-17.php)
+>>
+>>
+endobj
+49 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [232.6582 544.72375 238.44727 558.35852]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+50 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 524.27161 74.894531 537.90637]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-18.php)
+>>
+>>
+endobj
+51 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [282.68555 483.36731 288.47461 497.00208]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+52 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 462.91516 74.894531 476.54993]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-19.php)
+>>
+>>
+endobj
+53 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [470.44336 442.46301 476.23242 456.09778]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+54 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 422.01086 74.894531 435.64563]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-20.php)
+>>
+>>
+endobj
+55 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [232.60547 381.10657 238.39453 394.74133]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+56 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 360.65442 74.894531 374.28918]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-21.php)
+>>
+>>
+endobj
+57 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [335.53711 319.75012 341.32617 333.38489]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+58 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 299.29797 74.894531 312.93274]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-22.php)
+>>
+>>
+endobj
+59 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [188.625 258.39368 194.41406 272.02844]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+60 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 237.94153 74.894531 251.57629]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-23.php)
+>>
+>>
+endobj
+61 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [453.35156 217.48938 459.14063 231.12415]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+62 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 197.03723 74.894531 210.672]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-24.php)
+>>
+>>
+endobj
+63 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [510.80273 176.58508 516.5918 190.21985]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+64 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 156.132935 74.894531 169.7677]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-25.php)
+>>
+>>
+endobj
+65 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [113.378906 115.22876 119.167969 128.863525]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+66 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 94.776611 74.894531 108.411377]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-26.php)
+>>
+>>
+endobj
+67 0 obj
+<<
+/Length 2076
+/Filter /FlateDecode
+>>
+stream
+xœÕ[ÛŽäD}ï¯èg¤­µ«ìºHifÄî30 ,b‘€ÿ—pU’I2Ý±SÉ€–Ívo.ŽãË±«¯ ?ïPþÊä¯?}¾üyq‰ÛÑéSâµþ|ÿñ:|ùë×Ëûáúëß—z>º"úpýë—Ë§Ëw"¡åÂŽ«Pç¹žùñ«ë¯„'/÷:ÄR
+OyçKñ9d¼Fð.ÊŸrõÅ…ú‡æG¿’_Šãä‘È/W„Ô%=8ðä‹7Õ‡àƒ\‰ p”¢©þ;cÎÙ÷‰àÄ¨œ‹e(ìS)Ô©~F2$[}†Ä™bèï]ÞÖÞ{Ÿ3aŸqä&'¶`*Ä2:m#ÁàRH˜-å‰csŸôælå=û¢/}âsp‘Lå)e(žb—ô $¢­<zJ’Þ¡O{IDÇÄÉÔ>Çc_Ü"WJ21Áˆ=ì‹úÙ$ v¸/.CfW@‚ßRÅM!béO%¢)ØÚS’Àïï£ËÙÔÞ³dl/Þ¥zc´•— È¢~_äPL.!dSyñ‘Ôî‹‡’èÑ†LÞp—x†ì"2¢YiQò/Ç>¿²\1y[yÈEÔÈ¹˜¤QÀB¦ö‘ ³Ï}q#(âJB¶´—.!•Šõ}žå"]‚ ¸¥¼”ÙH9ÅÐ–Áe)ÏV&ÑÅ,`ßYc&Á[X,x’¯Xß'œÑI	BSw_vC½¤“¶nG‡ ";uBe,rm&³†‹ï!K=èË¨„Ò!„H6–aö;q8…à$	£	eL™€ŠêÕ5¥˜)Ã&«-ÑÆ‡<>_Þ Áîëó§N|1Š‚%
+ˆÂõùs}Qéµƒ4Û’¥Ï?_¿–Ò‰‚bX©µÀA~Ÿj=­U[¾?‚teò)'Iê,É9®Ÿù›ëóo—oŸGµ5:²Ô¥_é/j!¹(m¢ÔN ˜äuÂÃ¨FU!jÕãDãùÅk„Åk´W’ƒ,PO“®kçÓp®ÉŠãù<^óê9Œ‹ï¼5=«>£ÌréqqÿÓpÿ$³ê2™–ãxM™uôòÒƒ¬tÅ‡áâìTqBþÿ:¡§Ãï]§T]Ëø‰oï¨v|—³–òŒ³Ê—å¬É0H0Î¦4½Ý3êø¢Ìò^ÞáÑ0âŠÊž1âÃlÄ‡Ù/h»aÌ—s8q¼Ð…x–ÕîŸþ]ïŸ·Œú)r—²Ûq²Œ¾¤àgŒ¾òî}	>K1ã"EzKÒ­»t‰IÊ#SÌÛ‰t	]«¦a[§›Ñ%
+»p
+("·£Ë0 ÖÊœQ‘ÜbÊ"•¥ú¶¦F´.=ÃÒß~ˆQCJðNwËmý0$J¬¤@Jð•ÇR’4²¨ÜPsu)$~Œ %Â}œ0¤fï*ßÆm©ÃQ—Ì,ÈÜälzcUQi%´¬-;’ÖšêD¬Ú´`^˜x
+¨	:›±üøZ07#f§š×5®•ó¢&úAŽ
+Á«Aß~ÚÁìPx¦w½R…`	ÛRÔœê†`Bz]8ÁêÔWI…]ìãà‡m£ÝíÌ©)¸T`7\á³€d­0Ûo7¶Û4E~ËÌÙyÌ[K3Ü£ähÁ\™³•§FÉ€¸
+ÉI}”V<éÛ¾’S_k`ßž·ßS€X<ƒ×ü¼#Š™+k¥¾‘OK—DN„x¥¸¼ ´†¢Ë£eaêÐò.½`Nú8$Hûf97üµŒÏâ¹”ÜëâÛ³i¾F/'Ë¥‘£å„'ÒûåqÑð8L–Ô!Âè9G7»xŸ{´­ed5{Úá„Õ
+Ï'Ð.ZU2i%©»¦'WbÔ”4h9­]ìçTÓjÑ=ZÎ¥÷*mšzŽQÅæâ”óRÚÔ®Ûð‚te@*çQšHÊ´ÝfìbRÒjÍÊ‡}Ø×P({Êc0¤DåÝ:Z†à0…éiUX’Ô˜}=mÒŸ4¸Z.„«]œ(/°×iåû˜Ýz
+k »ZF>ƒ¿¼…×xKüõ®’ƒø›IÇË~Fõ/L³ 8¨£¢“T*7ó¿1ö&vBƒNxÀKê¼ø•’D6ñ6ø„0“Ê#TÊ×á7Q”\ðA)6&˜×ÁŸîˆaF…ë®ÅðCÏl±·Rw¨Ã’×\g«€Ëú˜5ŽdcÉY³‚™«½1GÔ+†35áÐ^fÝžP®W÷îÞûš /XÖÍjßÓ-™WK5#-·àœ),Ñ.,ï-+B¢mwõ^EÅ#}Ö•:ÕÚ{µùÚÛÚkN8ÚÙW!Ç—­jgÏ:#:ÚÙ«cÉ½}ÊZ]?ÚÙ‡¢±sÕ…-Ÿæ1Ó¬ghW­ÂP†å¾·a!›œoŒ·Eâ¿¤}þj‹ßÑ>ÿè‹{›+hG/¿ÚÙwrÿãíHmGV{§‰…‰mÔ0e²øºnÖ¸ZíAx‚›Ý0÷Q`©}¹%ñŒÑ¿°íG«-ivÔ½Ý*ËíÆûV‰½c4|/+h#3n†ÖÞË3N*;XnB­Î’lÞ@«67oË|G6o ª¥ùÌæÔïÝ¼Ñü`±=,¢Ò\})~(«W%cz¿µ·’äôÑö¾†$;}œý’•ÕŸ&½-No‚÷r¸Êmõ·khæg4i%mëDÐ‡«{ìÖ¸ŽÊ½­åŒqìmáRðnµü(CÝµ5±Þß½‘;V}P4!j›Äc¾~¾Pf7ìŸþ~ù¡í¼þïrËE
+endstream
+endobj
+68 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [178.85742 728.79321 184.64648 742.42798]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+69 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 708.34106 74.894531 721.97583]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-27.php)
+>>
+>>
+endobj
+70 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [281.22656 667.43677 287.01563 681.07153]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+71 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 646.98462 74.894531 660.61938]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-28.php)
+>>
+>>
+endobj
+72 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [228.04102 606.08032 233.83008 619.71509]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+73 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 585.62817 74.894531 599.26294]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-29.php)
+>>
+>>
+endobj
+74 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [247.10156 544.72388 252.89063 558.35864]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+75 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 524.27173 74.894531 537.90649]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-30.php)
+>>
+>>
+endobj
+76 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [492.23438 503.81958 498.02344 517.45435]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+77 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 483.36743 74.894531 497.0022]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-31.php)
+>>
+>>
+endobj
+78 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [271.58203 442.46313 277.37109 456.0979]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+79 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 422.01099 74.894531 435.64575]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-32.php)
+>>
+>>
+endobj
+80 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [494.14453 401.55884 499.93359 415.1936]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+81 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 381.10669 74.894531 394.74146]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-33.php)
+>>
+>>
+endobj
+82 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [464.58984 360.65454 470.37891 374.28931]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+83 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 340.20239 74.894531 353.83716]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-34.php)
+>>
+>>
+endobj
+84 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [420.22852 319.75024 426.01758 333.38501]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+85 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 299.2981 74.894531 312.93286]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-35.php)
+>>
+>>
+endobj
+86 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [246.72656 258.3938 252.51563 272.02856]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+87 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 237.94165 74.894531 251.57642]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-36.php)
+>>
+>>
+endobj
+88 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [462.18164 217.4895 467.9707 231.12427]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+89 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 197.03735 74.894531 210.67212]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-37.php)
+>>
+>>
+endobj
+90 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [517.95703 176.58521 523.74609 190.21997]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+91 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 156.133057 74.894531 169.76782]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-38.php)
+>>
+>>
+endobj
+92 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [404.95898 115.22876 410.74805 128.863525]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+93 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 94.776611 74.894531 108.411377]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-39.php)
+>>
+>>
+endobj
+94 0 obj
+<<
+/Length 2257
+/Filter /FlateDecode
+>>
+stream
+xœí[ÛŽ$·}ï¯èg+‹©`˜™xüœd€|€0¼bÿ?`J¥êRMw‘¥ª±	²ƒÞ¾³(^)5\-ÿ}þ/¡»þðùòŸ‹‰T_ïùE¸–¿¿}üúÓåëïýõ§ß.åý˜ñ
+àüõ×]~¼ü•%”W)“¡"Ô8*ïüã«ë¿ß	Ž¿k rŠ^¹Ê'”³K>Á5XgÿËW—/ÿp¹ô;ù9ŠÎ:Päó§,¡õqH:8k¬CˆªöÖ;ïÐÁ |´cðÔORrcòƒ5lTÚŒÍäbÎ8¨ã“NUŸl$ÖÃ‰wLò.M{ç\JcÆá/¶MÖBç“ñl™dmÃÑ`¢VUÞ“Evl“¼”Õ¸ÿÄÙé|.‰OÞ¯*1Ùì0I÷9à8 uPp£?¦=g¢!¤@šöÁRÈ!ŒÅG49G-eµlEg=Œ½dsÖ”gH°–a‡ÆÂÒ'2y^;ÉÈcÒÑŽgtºò9AîÇÄ»`nPÅât{ÄX¾HštÆÄÄÚ…ƒ°‰`ù³$
+ˆ45Œ Ã™Ž³–†Ä“M& G¥Zf“/…1·Ä†ºò6å ”Ò2K€ìTíÚD.ÅCˆÉ¬¼•¹ ý˜g)3GpžtŠÀa“˜LŒ…e kR$• qt1ÒVAæ6†+xÒµG]ú1ñ†+UµwÙÃ0Ò‡ÈÁ»ìÌ[Á2dþlB¯*ÎòãXRE`†àêÜ’³a‰£÷†óPe~\‡ZÌ¢[×-ÅÒ2lv/iy~»|ýŠß×·/0÷; ÌqÔ^ß>—…2ÙöÌ¶)\ßþyý†ƒÙ°Äu”<ß^JA-e›?[fe|Ïo"Zä÷¨Ü§o¯o?_¾{kjKíN¯1_égojÆ>ÎÁ¦ð%á‰o0_ê±°qÙq[’üS[@Q>öÊ?–9b€lKD”%¤È(—9š¶uêŒî«Ñe‰€Á ÛDY}ÇòˆËÎKÆr	Å€%CPR¶œ"ÅûêÜ6Zh:¥¦×W8î¬J­€Ã®pœLÌ‚8ß6-LqA–Äøm|WÈ†±e´¶ Óì9f¸4z–P™ívgÖÛ¾Ê’™DM¡#ê0é­¥VS@XðH[uÑµÆ¡›¬QŸ+º’U˜z%z^›íÚÖT’G$1©š¿…pHN6ÿô¸:ûyyoþ\Ëò^yíîû¾7¸:9ƒ¤Ï;”Éí#)ÿ4’ÒG#)qËø!)î|ImõÃ#iLÜRCRæ°2’âÒMëcóJ¶{I§£˜ç³WP¿JÒ°œ"…žZÒ¿4~ô¬Hvbb„L0¢HâÌÀ*\œAÊ¦PFS‚ô	Õ)Ì9? ånµêøö(t·|®Q4×hšà¹ÂõSóâët«pÝAuý<NP3U²ö‹Ü÷å F-L×ªÏ_šõÃš'ì*«	ð™*ð²«
+€bª ”,ß–¨VdØøA¨#ãU j$ÿŸ¦ D½^Üä‡®Ù$™ÃªU€1±Œs·­õ èâ]é„¥Ò_º<Uìå©1…ÁZ¢ ¬Í
+çŸqcB2‰Sáf³°iÎ~
+³}ÜÑî©P°l7
+‘2{d]‹µ=ª£@lKŽ|ÁÔÛãÐ=ŽÝã¤{¿‡uÜÃû*²	îIŽ‘à“HÐw€{&î1z©“9îh’ÆhöÌJd=:+!9¯Šíh¦ÉàfœÅ†íQÃv2È!=:ÍP¤Æh<i“á|Š”aVe
+Ly»JhR2.H=éÂ'µ¾€+¼H¶@‰b²)Ò—eŠ¡b´)i(Ï6™1¹ÞRú±oõ´úƒØ¹®àðWÌ£ëZÑx8ðYU³VP”¢#†Õþý™Â€Óx¯(tïK»Rß¿ƒÚ¶¸M¼¼¯Ák}eèºÜ÷²›üv}Ìëöìþ±o1Ú­õ&“ºuåÅµê·‰ì˜þlÂÇÐ®í±?°¹ÁÕZÌnu"WðEpdo#ÉJéÅ”©úÎz-:¡F¼³ËZÚçoAÊU„LúBË(I#ÿ˜õ&J&ÿs®hƒ|Ÿ¬qp|<µc[ƒPk³wÚŽ±Å8'Ñž=¶#n3ˆûÜUì „iÏvš[«ÆžˆZÝ‘§3ûÝPk±ðRRÏ½Ô²ÚeO¤æÉÓƒÏ·Ê€3šç%&¶*ƒˆÒý)©3 ¾@õ|ˆ%iÇm°e¹»flÕ­Û‹êm_¯ÿÔé°áƒùù,g¨ªsuêëŒ3âŸìl.®eoâîûœ[û!¢ñW§ÖÎ?ý¹Æ¯£r\Œp%9õ6ÞoÙóž®øæ<¦Ü®;cä¼‹jãðQVèŒuâÀD¥…h²L@Æi¡ŸNüµ\«­hÀ]´ÐMÛ¹\E°"-xm\zCimŒãÈVïrGã–¤–e6®öÜº[qhr«l;|À:ž
+`,ÉT>yÃ‹§ôã2$n®‘FcªÉÜ‰ì€Q98ÖÏôgYB+kQBÃþ0ðQ²™;‚ÑÕ½Åöy*E5<Ú¼f†í‡ßyéÊC¿+ûÚÀíz§6*p¿:/|îŸþ·jê¬w!%·SOjéÇ9¢?ú|ÆÏ_ˆæCgpêŒvÐ)kÐ\ˆuk¡n«jÄ·ÏÃ:ÙYýQï3ÎÚsŽáÿ$é¿ƒ$mg‚¶ßŒ|ŽOßïJÊ\o”)!ƒ‘¼ójo‡èµúŒrnf„!YP6÷&(ÐX’7IÞ‚{LÚ,/ÚéˆjóÔCå7VŒæÛ»ÃÛÓ8—¤Ã%zk¿M9Ê’zl~„ý¸àúxK­sa1lR|'™n`9ïj½>–ÿ°¶d»j¸Õïî9×O^ =¿#Å~Ã?«	ÅÀž@¬?Ù	éúù‚‰Ìô«åÕ_.¯¿ƒù•¢éñ
+endstream
+endobj
+95 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [299.77148 728.79321 305.56055 742.42798]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+96 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 708.34106 74.894531 721.97583]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-40.php)
+>>
+>>
+endobj
+97 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [480.99609 687.88892 486.78516 701.52368]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+98 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 667.43677 74.894531 681.07153]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-41.php)
+>>
+>>
+endobj
+99 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [351.08789 626.53247 356.87695 640.16724]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+100 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 606.08032 74.894531 619.71509]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-42.php)
+>>
+>>
+endobj
+101 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [440.50781 585.62817 446.29688 599.26294]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+102 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 565.17603 74.894531 578.81079]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-43.php)
+>>
+>>
+endobj
+103 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [95.830078 524.27173 101.619141 537.90649]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+104 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 503.81958 74.894531 517.45435]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-44.php)
+>>
+>>
+endobj
+105 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [182.92383 462.91528 188.71289 476.55005]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+106 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 442.46313 74.894531 456.0979]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-45.php)
+>>
+>>
+endobj
+107 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [511.11914 422.01099 516.9082 435.64575]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+108 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 401.55884 74.894531 415.1936]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-46.php)
+>>
+>>
+endobj
+109 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [229.46484 340.20239 235.25391 353.83716]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+110 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 319.75024 74.894531 333.38501]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-47.php)
+>>
+>>
+endobj
+111 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [490.24219 278.84595 496.03125 292.48071]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+112 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 258.3938 74.894531 272.02856]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-48.php)
+>>
+>>
+endobj
+113 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [358.55859 217.4895 364.34766 231.12427]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+114 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 197.03735 74.894531 210.67212]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-49.php)
+>>
+>>
+endobj
+115 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [385.32422 156.133057 391.11328 169.76782]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+116 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 135.680908 74.894531 149.315674]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-50.php)
+>>
+>>
+endobj
+117 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [132.210938 94.776611 138 108.411377]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+118 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 74.324463 74.894531 87.959229]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-51.php)
+>>
+>>
+endobj
+119 0 obj
+<<
+/Length 2636
+/Filter /FlateDecode
+>>
+stream
+xœÅ\ÛŽ#¹}÷Wø9ÀhE‰Ô¸½Ûû¼Iù€ì2²ù ”\ªR¹]d©ìÉÎ §½v™ESÔ9‡½p¶ü÷ð?	Ýù_Oÿ9™HõÙö›Ÿ„sùû×Ï·¿ÿvúîGþí¿§òzÌxpþüû/§_O?±…ò,e2TŒGå•¿ÿéüï;ãÑñ{@NÑ+wùb€rvÉ'8ëLà?ùì²ñå.·¾³Ÿ³¡è¬Å>_e	­CÖÁYcBT½·Þy‡í£5ƒ‡¤Þ x‚”’³¬á bÐ>€±™\ÌýO`|²Á©î“Ä~ø!óÎ‚IÞÅ yïœK	a,8ü&Ã±ÉZê|1ž#“ì`l8LôÑªÎ{²È›Æ¬o e5ï¿ðît>—ÇÌ'o‚WÇ˜lv†¬{‹œpœÐ:(8ŒÑóžw¢!¤@š÷ÁRÈ!ŒåG49GmËk9ŠÎzKzÈ æ¬9Ï`-Ã¥¥Odò¼^$ YG8ŸÑéÎcäÂp?fÞÃpƒ*o×Q°GŒå¤Yg<@LìýXÚ0›–¯Õð Q@¤±¬a1Ît<€èœµ4džl28+UšÞ|)Œ-+ñ%6DÐ·) ”Æð€Ud§zÐ&ri,oBLfçÕ¬ä„ÌèÇV–2kçI—œ6‰ÅÄXZ°&ERg#ý ²¶1ÌàI÷}têÇÌf «zï²‡a¤‘‚w;Ô™·l<‚eÈ|mB¯:ÎògŒc›*+P×®œƒH½7¼UåÇ<œÐb[ÖH,ÐÆº›*3‹cÉþºdYJ’Íªå¦{¦Û¼}œ¾{G¦‡óÇ¯'hõ@à äÀ8mÏ_‹3,æ=«y
+çŸÏæ¤†Y^8bž&Ï?×BØEðã7Ëªó‹ÈDŽü•ßé/çž~ø˜Ü–Ê©Þ?b­¿òÏÎnÆVÞã“[ù‡Ý h·zlÁ%F,p´iÈ_&ÿ‹ï±÷ý±Áè7M!Êo-¢ÅÕë7é‚ík°e‹€ÞdÞ|‚Éºfl˜.±}V,·P¥jd‘°m9«Š•BŠbüKÞßæüJûÖÁñ6¸å©ä¾é–<—P™Ë?!†oŠOF^…q^\ŒŠ%ÖW(û¢¤„/»‹MiÚ"î¦lˆSöÃägœvuï„¬ñ™¨lß)·»(–R6Ò¶¨yá/kæ)Þ‘çlÇ¡z¦À£™±@R4•MOL7hèÂß§Ü%:›uí'ÄfMV×¹ ù’Ÿ·ÿ.Ç÷)Fí¹y?-×|^•éµt÷Á.ÓóvÉ±û{”Çåz¤ÖÕ†Ó3‚åN7Ï>óÀ™úú'hî¢ð_—¨•×ª­¶ó`‰~}o‹ð×–U©v®SÔRéÎþj_×+ÜìµUl~Ì6îlË+Ð·ÌžY ÚÁà‘ñŒÑ5½ŽÂë6°mq“[Ÿ%=Âä #Ía&·#ìcòT×a[_*—(ç(›Òx#Mh0°þÞ‰û\§1î[ÉúUÇ}¤YQRÄS0™å^ÞŽz…-}ßôÀùËEþ¶òqE³b…ãÄx”åõÔâ„˜Lò$YÙ\K…79k	ƒ´Iw¬#ñ§”­ìU‰D,µe½ùp=]%ôëB¥²ï¤_:è¿LÄú~û™©¦#÷eó>&{iKÖ×i¹¦Ú½ÜÙéü”l‰´³:x†vÂÿ™÷s§„¶Ô”]‚ôH9ÕÅiÜ>ùÖ®éýÅËšûû×«¿ÍÏ«ìþôä™`Ç]ÿÊÝ¹ÌÞAï WaGèÝÉ…ðqzO¦Ú
+D³‹Þƒ´µ»3ek}üƒ¶ –ÍE¡6¬ ÔúGÝ^ÐjEï±Ibœúq/úGöáWqöŒZ3oÅ(õMšU-ÑSmîXâ…·L¬ þ®XŒÉH¥¨m+|„¯‹b’×¥!S˜POÙ3”Âž
+ž[ÑÄ°ž)EÀìTŸÁË´««‚(é‡1sêåotdkH–ZÃ IÖ¹P;ÞÝä’ØgÛš>ßÖAÄMjÒ÷-…KÙø,WZ
+²Yoê¡½¼sàæWs°ßñM…´k÷ gf)íF0UÃ,0ÌnR¸ÕN.¯³€¥÷š«a U>1Mšµ
+cQä7–€R‘õ¶6zqóZ“¨¥nêDèµ™W­¨‹¬5’V£Ï€fþ:yŸöõú>Ëºî±mÅn[Ï5Oƒ»ví®Uõ¹VžÍx»ªSåÅégIžYœ‹Îh_Y¤ød 6½¼àí}¤z9™áK* – Ú9Ý “qX4«vÑ@;››™L±Tô‰¨&_Æ|§¢*ä@Öø¦ÌÜÈ|®q …Xˆ¥žf±÷K;Ê3~)h‚«—sp`y¾.ÍûŽ½6þIù|YVyžaè\íb—©j1šµ3á9M$º&Ä-ýÇ²—%Åövöa]§Õ½©,3Âòn’ú—®U»Îˆ@»­4ÙL–ÛÓyAKÍMrÞ8Q¤©Ç¸¥#Ò–L×{º•6Q?ñx´Üp+ØUï¹„{ž¦è0¬o×6ÒD^{½¶’œßNL…´š‚|F3ì8áZCXá
+M|®k˜Êèåk»†±ß¨kÈ†âóšAEŠØ¡ê×ù¸W[—ÕšÃÊ\«~]½‘äûó×ùì¶+ÅP™S¢rà$÷ZŸ[]¡ÁbT&ŸJO±lær0»º~Ñ”1Ñ½ZG›”>ªL6Ô‡^íNEæCŠžÞÐö\ÈÑú=sÁÙ:•]‘7“H¢.Ms–ÓÙb©å¬vt´šö~†®;H 'wò†‰ Æ5yšOi…‚Ù¥áN(hêã0dí fpRVA(®D¹­µ3Ó³ÃeÄSÆØTozÐózËeî¼3aªmT­¸=(	bipDÄg—2zZ6ÙylOœU\}!ã¨® në”»êS~èº±†‡=´k>Öº÷×T?ÒŒ§. xƒùá±†Õ÷?ŽÂeÚ9o³W/<9r•cý¸Ý{’šóGŽÛ½²%Ÿ˜¦“îwÓ)#pG¤33—Œªt.ø"AZ®CjZ»ÁÙ:d)ù2&…}Pþ¤0g‡ÂX‡Ú!¤Åo«)¤3+Ý6éÓ7Ž¹h’=|ƒÜãí»;÷´/©=qP_Ãy‘±ÿ¯|šÆš¯´Æ%aJ½©f¢n2kžÞj`´HðGœÓx„îÊ…6R§¨­¾0÷—à.Aó:ÕVÃSí0^>*f;Ìþ&C[Þ ,HwÑ+pˆBBªÅÏÝ—d•âgÙ§
+D¿pŠÀ—é]1½öœ øÊÔÈg]ªÍrkÝ®ÑŽR*ÿŸ¡ «e}šÊù¬wd0¹Ç¿÷Ëmä‚Ô-¼ÿŠJ‰d‘ÈÚIø{×ˆ‘f'V_>JCJú¾ëä¸G0^ì³7ÿ€=C¬ßéüõ„UN—//Ïþëô·úUÜÿ¤´l
+endstream
+endobj
+120 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [107.121094 728.79321 112.910156 742.42798]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+121 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 708.34106 74.894531 721.97583]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-52.php)
+>>
+>>
+endobj
+122 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [269.58984 667.43677 275.37891 681.07153]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+123 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 646.98462 74.894531 660.61938]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-53.php)
+>>
+>>
+endobj
+124 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [259.99805 606.08032 265.78711 619.71509]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+125 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 585.62817 74.894531 599.26294]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-54.php)
+>>
+>>
+endobj
+126 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [137.332031 544.72388 143.121094 558.35864]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+127 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 524.27173 74.894531 537.90649]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-55.php)
+>>
+>>
+endobj
+128 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [183.96094 483.36743 189.75 497.0022]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+129 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 462.91528 74.894531 476.55005]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-56.php)
+>>
+>>
+endobj
+130 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [396.35156 422.01099 402.14063 435.64575]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+131 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 401.55884 74.894531 415.1936]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-57.php)
+>>
+>>
+endobj
+132 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [107.121094 360.65454 112.910156 374.28931]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+133 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 340.20239 74.894531 353.83716]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-58.php)
+>>
+>>
+endobj
+134 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [185.00977 299.2981 190.79883 312.93286]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/index.php#EDITOR)
+>>
+>>
+endobj
+135 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [72 277.98572 75.807838 292.48071]
+/A <<
+/Type /Action
+/S /URI
+/URI (https://www.w3resource.com/python-exercises/numpy/basic/numpy-basic-exercise-59.php)
+>>
+>>
+endobj
+136 0 obj
+<<
+/Length 1997
+/Filter /FlateDecode
+>>
+stream
+xœ½[Ûnä6}Ÿ¯ðs¨¤Dê’´Ùç¶úmw¢[ ÛÿJÉvlobÒòLš ;»™1M‹G‡GGZ@¾ïPþÈä‡ß>_þ¹¸Äí·ó«ü‡úýó‡aüË—O—o?„áÓ¿—ú~*4 ú0|ùãòñò“D¨¿åÂŽkPç¹¾óë7Ãß_O^®uˆ%§`ÜåÎ!—âsÈ8Dð.ÊW|q¡~Ñrë¯â—â8yðhÄ—O„Ô=8ð„ÉÌ‚ž<vÆ'p”bÀlÞ Æœ³ï‹ÁÉ R´ÀAaŸJ¡Îü3º!z3}†Ä’Gè
+ï]>E+{ï}Î„}ƒ#9›bAçÎ™c#hp)$0“$…Í}Ñcp˜‹‰û;™>¤èK_ø\$fò”2O±+z À	 mRð”’ÇÐ—½ÌDÇÄ‘­ì#p,1öá&¹R’5e€Œ¢‡€} ‘Q)VòB	 B;ÜËÙ•|‰R¤±ôE'ˆ‚gòvò”d‚Ý÷…÷Ñ	ÝÉ,Óµ—ì‰R½­èÂDY²ïƒ°KòY‹2G"îC0ˆÃ(tfó&ï¸+<Cv•f›E™|9ö••å#ÚÉC.9ç>>`•€Å›ÙG‚Ì>¯qCSt¿]f”•ÀMÜ`Ö¯…ßÊ«E>í*¬‘£§»<<_¾}"òðüñ‚³öCŒŽeäS0<®¹ˆð¢<8Ï¿ß	 @"Ëp
+ùy¬äR)Lþþ Ò¡äUÞ$!’÷¸¾æï‡ç?/?>OikÒo‹.Ùä/i!9ÁA– cZ(·E¹-â|«·#øä8zÞî§ôkêiúÛñRpP	H¤ÈÉ‘a=â¡¸IŠˆêS¶ÂI<–ùMóS½…1z(Ë$pÜœjT#Jz*fjj-Åd¶„PD=­€ ×•²vÙp?¢Lø6@VeEÊzNÓÓÍoÔ4ÔžÀ)ã~D>%—¶°?ò(ø^$‘Äæ
+rÉ¨±w¹Âu?Ò„zZ1Q¹³¬gŠÔVO+Št#
+MgdÔ'ž£Wä,Ì§/IOòÞ<MÚM'ê]8Ð\I^Ã¶ñ ÛF“Üzù`/§+—¤¡%@?ßz'rö=èVÄTxû³þÝúdÌzšzw‹6åÖfÅ½²ªµ´HOõÇ`&Ujð
+¿ñª*•ëf°s´˜Sæ°Z*+Þ3*"²ÏU÷F{b‹9Aô7iÌÙÙm(¢,3õœúº(O£#rÍñaÌ³qßƒQä+ÉsŽpbc¶5¼åIED
+7¦×I*\úÜ¨ƒ_æwžÞ[s}¿ýûa¹®]CÓ{qäŠví¤Ÿ+:Ûk^î±7Tâßxd×ð~:¤²cÅø>åœÐÙ±òƒBb¶Ð®Ò5ç›
+íˆa?äy¡-ë>]#Ú8ÖAÕ{=aš74k‹ùe4‹ÖE3i*cx–ùS2ºçJ´¢XŒ/O(ú]ãç^ÆÍ|ŒM2>2ºR?ã£%“²ªz´kÈœduPÂ>:ÚxÑˆsð¤ñàÚÍ?Kú›³xo#¨´°n ¯pá¯ÿk? üì@V§·úìgW	}~j€n¾gp ®fÎÓ}?¸Vè‡Òª ôÈø&­Òf§Vv¾Á¢X±h´‹.CDˆÁð¸jŠÕ"¢Ëêbð5½0Fd}©´³¸€Á™ÎëÖÏA«E†Öe¯¡¬¹3.ŒéÅ!5›Q1“*f=%WGZ»8ROé.Ö¬<Òs½™y¶5ìPøk€ô½Ù›¼†¾Ë1½žŠªOèu)§Ö¸èõšmqJ¯ë‹ˆkŒqCÅ4Æk¥xŠÀ½#TË!/lL«yUû’[Àâ…Â2xÞòm¡Õ Ùt+Þ$£¢”ïWp·ÔnÝöÔõs'íËZÕ©êFžÆyÞ^«ö|ÔHeu$áF†ÏÖwÚ×µgƒçq*9/:Z'ÂÕA„kxðþ_}kßÂ_í[ÄÛûô~¾ÜÂ·ðÅ˜M§x0%kEjò ¸ 
+¨:«“Ž†"-¡òZ/€å¥ÄÔ
+«lÏ"Ûßï‚½+×Yª¨|Lží‰áà 41Ü¨)xÂ­}Ç^×<dK^wì4ˆâ·8³“œòÜœ³:»Ç'Æ~\¹oÁs¶°ï—6×ZÝËfètídi&ÞÒ9^9(“!ùò™§mÇ™7†7×|ÝæAšî÷ò¹77•ÇØj7Úþº¦=rUðÆíˆÆm¶+ÚQn[~7mG²”¯vD&‘-ËMstƒz«‰œÑ,‡åØ7²®zªË ³ý›ÓÅ`Y	¤ï—YÖSðæ9#±Åö½¼Lc­ÖÝ?À°@Y¡b)³<?)Ã«Szú¡Ôÿë¬Êæ0é5\ûhs­@ìÆH¾ÚAQa·ö@âûy !ßÂ‰–Ò¸'O\4û“\0mc¡rýøPËñÞÎ3¤ú?~‚6[{S·"=ÀÀ	]Òé#\¸»Òk»U£{gê¬§œåæèY*™,zv›~0ns¶ü¬7’Occy¥Éã±hÆg7¬Xï×}Ê;ÖüQ2¯‹ýú•‡ÏÊìÆðËoÿºüÒŽeÿŸ§A*
+endstream
+endobj
+137 0 obj
+<<
+/Type /Font
+/FontDescriptor 141 0 R
+/BaseFont /AAAAAA+Georgia-Bold
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo <<
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+>>
+/W [0 [1000 0 0 253.90625]
+ 40 [721.19141]
+ 49 [839.35547]
+ 70 [531.25 0 571.77734 0 0 0 353.51563 0 0 0
+1015.625 0 0 657.71484 0 520.01953 512.69531 0 676.75781 0
+0 587.89063 562.01172]
+]
+/DW 0
+>>
+endobj
+138 0 obj
+<<
+/Length 295
+/Filter /FlateDecode
+>>
+stream
+xœ]‘ÏjÃ0Æï~
+»CIšÖM!°¥ä°?,Û¤¶’Ç8î!o?Gê:˜Á†Ÿõ}–,%U}ª­	¼ùQ5 3V{œÆ‹Wgì›´QáJtª¡u"‰æfžµíFQ É{ŒNÁÏ°º×ãïDòê5zc{X}VMäæâÜ7h¤¢,Ac_znÝK; $d[×:ÆM˜×Ñó§ø˜BF¼ájÔ¨qr­BßÚE‘ÆUBñW)Ðêñ#»Îúj=©·Q¦YZ.”ˆv’h»az$Úí‰ö[&VîY¹«˜ŽD2e:1q†œ3Höå’ª»Ö‘ýVuû„”$“œ3ÏØûÀ—œ,?\Ÿ`Óò×e&·Fª‹÷±‡48jÞÒ6cñ6[7ºÅµì	–
+endstream
+endobj
+139 0 obj
+<<
+/Type /Font
+/FontDescriptor 142 0 R
+/BaseFont /BAAAAA+Georgia
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo <<
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+>>
+/W [0 [1000 0 0 241.21094]
+ 11 12 375 15 [269.53125 374.02344 269.53125 0 613.76953 429.6875 558.59375 551.75781 564.94141 528.32031
+565.91797 502.44141 596.19141 565.91797]
+ 36 [670.89844 0 642.08984 749.02344]
+ 44
+[389.64844]
+ 49 [767.08984 0 609.86328 0 0 561.03516 0 0 0 975.58594
+710.44922]
+ 66 [643.06641 0 503.90625 560.05859 454.10156 574.21875 483.39844 325.19531 509.27734 582.03125
+292.96875 0 535.64453 286.13281 880.85938 590.82031 539.0625 571.28906 559.57031 409.66797
+432.12891 345.21484 575.19531 496.58203 737.30469 504.88281 492.1875 443.84766]
+]
+/DW 0
+>>
+endobj
+140 0 obj
+<<
+/Length 319
+/Filter /FlateDecode
+>>
+stream
+xœ]’ßjÃ Æï}
+/»‹5i»A´é
+¹Ø–îR=é„Åˆ±yû©'´0ÁÀO¿Ïó™cV7ÇÆhO³O7Ê<íµQ¦ñæ$Ð\µ!\P¥¥_(}åÐY’s;O†Æô#)KJ³¯°;y7ÓÕ^x"Ù‡Sà´¹ÒÕwÝnoÖþÂ ÆSFªŠ*èÃIo}ï Y²­öµŸ×ÁóPœgT$æ˜FŽ
+&ÛIp¹)Y-OaTŒú·¿C×¥—?Kê<¨¬Š$ŠDGª‘^åé	}ôå[¤<Q!0ÁRë^ùôd«ˆçäe§D‹…q‘c1ŽÊ|ÉŠ5Åcaé|<z³Ã<Ë­Ð¾ÅË…{$ÉKVL\lð½+òæ\hHz©±ÚÀý¡ØÑFWœÿ:¥Ç
+endstream
+endobj
+141 0 obj
+<<
+/Type /FontDescriptor
+/FontName /AAAAAA+Georgia-Bold
+/Flags 4
+/Ascent 916.99219
+/Descent -219.23828
+/StemV 106.933594
+/CapHeight 343.26172
+/ItalicAngle 0
+/FontBBox [-190.42969 -303.22266 1295.41016 988.76953]
+/FontFile2 143 0 R
+>>
+endobj
+142 0 obj
+<<
+/Type /FontDescriptor
+/FontName /BAAAAA+Georgia
+/Flags 4
+/Ascent 916.99219
+/Descent -219.23828
+/StemV 76.171875
+/CapHeight 343.26172
+/ItalicAngle 0
+/FontBBox [-173.33984 -303.22266 1166.50391 949.70703]
+/FontFile2 144 0 R
+>>
+endobj
+143 0 obj
+<<
+/Length 7047
+/Length1 12244
+/Filter /FlateDecode
+>>
+stream
+xœÅš|TÅ¹À¿9gß»Éž}gw³9»{²ym6»y^YH61$$&`4!	D‰ñ#P¨€†ª€‚ø,n) µèm{ëõEßbÁF¬­i­Uk-ÉÞoÎn"`Pì½÷wçpþgf¾™ïÌ|óÍÌ™@ À€@ ¼4TÆ|Íü€iÅÜúòÚš` iMùŒ™“ötvcºÓ	53ü9¥G7ß†å5˜ž5«tjýµáåy ºW ¤§Z5wHc_Bùa”ßÞ²¼Ó9unÍV ¦É™yó­ý%Uc}é/ç7/í (Qv–çæ/¼aÞþV 8÷h“Ú[­¸uëÛK ,O(ímÍ­§N{ÎbùX¾ 3¸€ü3L‡1Ü¾¨sEÙbæg¨õ‘Î…‹[šóOŒÝÀQ~xQóŠvs
+e˜v^Û¼¨ÍòLnÊ©Î)‹—vFj`%Æ7RyÇ’¶Ž=³îÜ Ø…eÚÚN%^4°  8 ‘Æ£23^dasçµ(‹šß= ‡U Åòa&Zè]²I¬ÅF‹Eªè{G	X_>k¨•¿3´rh¥ªQÔxnˆæHžéÓýö*íø/Á}ùÏîÜ÷}¾\•òäÐÊÁMªFù'XV‰mˆé–Øq¤¤ þTš‹éû£O&	V2$,#Q0R‰”aX±·ç„©3œN ×YÜP)üF>‹¼àØ~NŸ5±8‹ÑžÒþ¦áE /ex¸/Ux¨Å‹À¼Zi²/sà
+Q+‰YZƒþ»Ÿ6´?‹vwBª¡ÚàjX°–Á°G¾#[‚²TùÃ¨WËw,ü¼ð"—|ÝKîeØØÕ½Ø x½Ì¾,)‘ôKú¥óé%»_¾ß%‡ÙÔ‚œsÐ
+ëcqñpK,Î ç.ÅYÈ„)±¸ '—¢ÝbqÆ ÊÑº‹Ñ²óÑÆÍàƒÉ˜Zˆo˜…ùKp4®Æôµ8ù…ó;€eÎ¯á©1Ó-˜¿k-†yÐ‰²‹•~ž/Käˆo)ÀØhúJÄÒ"›1'Úº,”LB}ñ9óæC;Ê–Š©6|Òž,G¶bI4Ò·NÂ(.6´ÿAúkôú²Ÿƒãû½’ Ž}nŠ>‡s\ç¦Nô­X–€Z¬“™ŽÍ[ Úû€•tEúeâJ"]©˜÷ŽË°<ŸÆÙSÑÞDÞyj˜¸>ÑZß`ìÀÿ´wŠØýïrÓ¿Uk#YMZH9i€di SH&	B#¹ALÕ ÷â®L†Ðg›aQÂC¸Ò5AÑÃqÜwf“ed1ª9
+¯àJX÷Âõ¸òNÆœ*æ±Ø+öáxm‚]ð	aÈ8b"&L—Ã!1¿œL%³È­d¹×‰]ð5îap9ÎZãixN’2ÒIÖ2ÏãÊðæy‡Ø°·€:ØéìDN2ÉÌ;ðsÖ„?Ã«$öÃ\°·	|¯³-pN0] ÏÖO×žfDŽí§•\ÿg¢=ÕqŠáß'¯Uð¯âýÚQòŸ¿®T¼_<Ïh·ò[ý[7lÝ¾UúÓtüý(øOãß™Á×nkÚÖ±-¼Mòh¯‚¿¯×Ío¹7¿ã½(äœÌÀf+ÏoîÚ¼aóöÍ~³sx3»éÿ¼ƒ‡S¼ÁÃÊø‚¦çÈÆ¿‘¿²òþC$x(%£ xHÅlüŒ|vÐÊ8Øu	À¢Û÷“à~lbàÙà³µÏ²’÷¸÷˜š'HÍÆ«62{øxïÂûøÿÐíÆ3;¬öÚM;´ºÿç$ò9¹ÜÜÚ¹l×IÓ™Ž3Ìö0yæmï›|úV"ÿÖóþ…çuü¼‰÷/ðÖîã÷15ûžÞÇü~Ù‡ÏwéxÿGÅÕ|Ä®_—Æ¯ëJãïìIã{ð¹¶[Á¯éÎàì6ñwt«ùÛW»yíj~5³º[àß@áönÒÝeåoÅ²´]O¯2[V¡¾[ºœüÍx7uut1Á“]'™LŸ6ÃŸ–®MIOöhÝB¼Ó¥Mâãí‰Ž¸«-Îd¶ÄéÆ8¹,ƒ·&dðfSoÐgð6ç´¼–Ói4qñ¥J­‘ÉV"Õ a4|’?‰áeÄ/+–ÕÈX­Ö¯-ÖÖh%ÅlËÔ°;XÆÅPƒ«¸Ä>NÁkÇ*x¶HÁÃ_›KÂúJ¨¬›6|Î˜ÎõVPÀôpŽ·2¬¬SßGÈÝ˜fÖ P–¬=ÀàC_2{Nýb¥ân;&iÁdU÷]wÙû$±XCƒ×n­œQîp4„shd££¼–.í\ŠÁ{‘ÐwRBíÍá“BéÒ¾NÒDSø¡´OIÖ:}2‰Õíôz—TÃ¼¥Ë†ãâ:‡EômxuÒ,
+´´wépÍÄ¢Ž­SXŸ—›“ðgù2½éi©)ždÁíròIŽD»Íš`1›Œ½ŽÓÆÇiÔ*¥B.“â‡!LN@‹Xå^»ËåjðÅÒ¶óÓaÖÃ}î
+ƒþ¼Bö*%^v\NIW‡Á.JJ©â>(;C˜Ã@ßBSñM±J¡ÖBèê°µ¤µ©	k”
+œ3\ö™?ÖQwŸZU"”´©|™Ð§RcT1,ÛÑGÊ&1Â”…ÆöáQœ/3¬Gñ„è½ \×„¡5¡Äð­'ÈúsE€Õ†c†hŒ„e%a¹ø^çÕá`sÖ9û2ô¬?ÀÁÜ&¯¦Uhm¾-×ŒmìÖj¯£vÑ»©Ý– rvÌq†Ú=5õs±Ö¨ù˜­,©_ã:"ºòšPXç—c‰ò•ýv¶'”pµ“&{zÖ8Ã;¦ÕŸ+uQ644$`ƒ{D7Ee¡“±+	~_f´O1´6- ï\ÐLÛZàìY×&¶u½Ø±h¨¦ù‡Jõô„Z…Pksëä¨ö’p°N|@Ýìz±ƒhºÒ†XV¬ J$¢¤©´Á5våôúÚ0¡¹Ôö‘œ¦Xf„†…NÚ‚
+Tv¶8Ã0½^À¢c(ÚÆ@OËÑy\kÕ~[+,õp‚³çK“&aàÓósšc92÷%Ðh™PÖÔÓS&8ËzšzšDVÍœœÐÓWYÙÓjÂ·ÖÖc­‘Cëìá²õa®©ŒEÛS(›^_lwé†“µÃI@—BÇR‹ÝA+à¿ŠØ­uõ.'jf}ƒíTOãu>©#¡ãŽÁ1Ž™Ú¨mÌˆyJbQ—‹zçºA˜‹‰ðªiõÑ´æÚ÷BÐïÅñh¢’#ÃÓL*Y5,©Þ$à[ö‰ßÐ¦°"eäŸ–3BícÃÄü=â¶¨<l(©gíLC4ÆØYSyq¦[¼Oóöà Âœ7,­?bßàät¸ÐÑ›!TN›]ïõŒxA4'ÖSêèêBs{Ol*Q§Ç¥`rŸ@ÖNë’µ3f×äðt¹¶®~/C˜’¦É}É(«?èŠ¹ÌH.M9i
+*©îe¢È~0°J”JÄ1Ý‚Û˜§Î#Ð‚{’˜Ç‰y|â‡!ð<üµ"‚Ÿ¦òÈžï•‘Aú+Rj¤4È8ˆCÆC<RZ$'R\ä,èA‡4€iDþL`DšÁù,"À‚´BÒ&ÒVd"ØHD&!ÿ	<8Nà‘.‘np"pE¾†d‘)"S!9òH2RŠôB2Ò#_á©’2¼H?d"à‹|	Ù"s +òä‚™d>d# Y¹È1ù;A>r¬ÈqP€cDN„¢Èçø519	ÆGþ†_Ë%0Y*2ÅÈ2˜ù¿‘)/ƒÉÈ
+(‰üÏÍ¥ÈJ!« 9Ê‘Õp²*"Z‘Ó`
+r:TF`LEÖ‰œ	ÕÈYPƒ¼j‘õ0Ù Ó‘³‘ŸÂ¨C^3‘0+òg¸.G^õÈ&‘ÍÐ€œ³‘-0'ò'ün¿Ù‘OðD|%r>\…l‡&$ž¡‘D^s#ÄqKäc<Q´"¯…6$ž¤‘0yÈ%ÐŽ\
+È3°®A.‡…Èëar\‹¼G>‚•Ð¼®CÞK7ÃÒH?ž:‘]"WÁrä­"oƒë#€Õ°y;Ü€ì†•‘á¸¹nB®…›#§áN¸Ù]Èu"×Ã*ä]p+òn¸O…`5r#ÜŽü	t#ï;›`r3¬Eny/ôD>€û`²ù{Ø
+w!*ò~¸ó€Èa#rü¹yvÀ&äC°ù0lAî¹î‹¼ˆÜ½ÈGakä=x~Š|îG> Ÿ„‘O!ß…ŸÁväØ|ZdÂÓn<ŒÜ;‘ÏÀ.ä>xù,ìŽ¼g¬G‘?‡ÇD„Ç‘‡àIäsðTä-8,òð3äó°ùKxyÂ‘7áèC¾{‘ÿÏ û¿F¾¿ýÈÿù[8€|	yþ"_†CÈWà9ä«pùü"r^yžGþŽ !áiõä	xùü
+ù¦È·à×‘ßÁÛðä;ðŸÈwá·È÷à¥ÈQx_äIxù¼‚ü=òu8¯"OÃkÈáuäàhä5è‡ß!?‚cÈ3"?†È?Â‘Wá‘‚7‘†·ŸÂÛÈxùx7ò
+üÞC~ï#ÿ'‘Ÿ‹ü;|y¾€ß#¿„ÓÈ¯Dþ>Œüž›ÿ€ü'ô#¿ÿ‚3È³ðqä%<SÁ'ÈˆH[kR*•0ò›í÷ùpdÔ)¤ ƒè¹¨O1-•J­ºà÷Ýÿ‰~)ÞjZT*¥ÅärPÇ©/QÿˆZÕhR™ø~ª?Ž•Ëh?ä
+ÐÄi.Q¿òÇëW( Nw‰úGÔªG“*ÄþQýZÚ´–Ç±×ÆÓ¿ÇüýšÑ¤Ó¯Õj/QÿH³ã~P¿
+Ãú9Žû_Ñ¯Ç‡úG‹¢å±¼J	:îõ˜%~týª˜~-Š-Çf¨T ×ë£ÝúÁ0ÒlíhRÕˆ~ý·úqn†KÔ?ÒlntýÔ~ÔG´)Ørª_F£ñÇê×&Uè7ÆôcyL&Ó%ê1‹~týš˜~m
+¶<^üS ÙlŽšíÃˆYFÕ¯Ç‡ú¨9¦ÛƒkƒÅb¹Dý#f1|¿~í*¶Û			?V¿q4iœ8>Tí*ê×‰úívû9Kï÷…‘f[F“Æ‹ãC}ÔN-OÍÈiÁáp\¢~Óp$a4©VìÕï MÁU»©ãÀér^âÏæ#Í¶&Õ‰ÃN}ÔE›‚šqœzp¹]—¨¤Ù‰£Iõ¢ý¨º©áªCõÀ“â9gëø¾0Òl~4©Q´õ¡ÚÔlÅ÷˜ Ã›q‘ãÂ4F“šÅþÑ1öÒâ¬Âq°&@–?ë";Æ…aäO4©£IðÐƒ~Úôzì¦Ý9¹9YÑ/ÉÃ‘ŒÑ¤vñ8tŒsiSl6:ŽDzÊá´IºÏh«‚4¢?mÛ¤;­Uú•ŒR9ÞÄ£~ )6Û9žõz]›²vúÜÃ:ò°Ÿþˆ ËËxØK»¶(¹B¯·X[\SÜQÌ*í]ãwøvä=;‘ûª¿0§Q—ë÷è‹ŠüþÁðäú‹)uzÌììÏ4!‹¤f/ÑåæN$…¹º‘£Ù’DbÙTÂºòÅX¾./K¤æ»¤þ*ÇÝeI×¯ÝS8ÛcñË«ªdÙf×ìq÷lÖË+…¹žŒ
+}`…¡ÂþÍ«‰MÆ›9Ãve‚äO×´ÝZ9;ø¾Ícéô†3º’íCóƒ•Fƒ†‘J†ì—r†Êª‚ËNa?Iö4F¶;ïˆ|-Û‰–Ë„µÁ2“%0‚Û}«RaT*v…_TLW,SHn¥÷¸p—íGw!ºãÊÛ\ÇõÇ­Ïú€”ŠŒL`;Ý¬‚3ìÔíb)BS•ÔÕ9PrÊe®²D)U6Å¡‰ˆhÒþF|öc¹Æ5Y^ÉÍÜ¯²ÐHâ‰<ž˜tBÌ`ÓwÌDFb²‰í~ïÙõ.}¹0¸-µÍêà]Âœ±Œ™U¸=Ž%Ó,Àr¼}u×Y•¤bpÞM·&™Ý²êjÖ’àXÖÃìÈipºSÕµgƒŒuÕÍI—¬šúTyä”d;>¨òcEIŒ^oïÕp©$55y˜ÓÒLA¥¦Ðt»–:‡Î£ÕúküWù×jÙsYÜQ—ñåú¡˜ú	úˆÔM[ŸŸG!7Çl2Êw
+MfÁ-£7š©›XDK0ËÖ½
+•Î(¯xgõ7«+Ûœ¬Úì›âä=v.^[ÉÏ_|›sZYù‹KÚ—W\¾nùeõ—Ín²êù9-ßûnËœ¼	m©é8h¿a¿œ8Ëf‹âKÓëÒç¥/K—Úz32d©½zŽsv8§Ó±EfvîÆ¹¶Úz8S›éÏ¬ÉlÊ”dØVkžór_á„à¾ÂþwçÀ vÎ#6Z8¿‹8ŒâŠöŠˆcG;*Y$´—ÜÙ°ù­²²Pe¨ôõUë÷+Ê¼bÛSWÞ›?ôšF«ç›z…ä¯EmÉ)©uåå/\7ï¹ŠòúÒñE÷Ïœôê›ókHhü-iþÀÓ.OÌ^™—M”S…m‡NÛËÓqV¦—8Äc—¡›ÛCv¥UšBP…"5Eœ»^ê´/è»Å_à°aWÒÉ~ç±Ä<’1ì³wp­-Gï´9ôIäOÚ¤DcÀvÏ²ÚiË–M›ÖYÁÈäŸ‡)ò9™­°iÏž²5ÊxVª®ºæšªª…©·eâ;ÈþæÂCÁ¨%\-×R›Ò +é-=âÊ§åk¶Ôs)[ª¹\«=q.aä½ù°ëŠnB}<¢ØØ8c{dš¡»ØNì4ßþˆò¸<&ï‘2_wé‰ü]ãŸP<áo­ieZƒÊøB·»µZ‰¸~yû¿ ËNÊ~ïuôyFûq³Ðñ-BÓàŸk—¨¿ÊG™©—ÄliÊs¨wŒÄL±âòÁÁ§ÌÎ¬©(õ–$:œj…K·þÚPgŠÎÓ‹ySã'¸ô….rR+Iœêöt†–lu*uBê¡ûvšœŸ¯`%
+•ßCŽÏŸo7š2´ƒ'ûâp*èø¨3ÒÏY#qàœtŽÜ]Ö)ÁÙ2Ý^a¶º÷î²y|y<‹ž§*•œÅÑKƒq0'8þ²ä`ZCrmÚÕÉ7JWÈ“zùcNN.°þ-)\Ñ}¬9^×ËÙÓWÃá	þ	&0Ú=®\E7¿‡Ûc98>º×ÐQøgzã¹–'F KøŽQÅF4ª…ÚQ/™c:,'n:’³CgÞnZ‘ªàí-®Á,k•Áia­vãd'ùX«˜üPÍëŸm5'Ú‚“ª2·ÎLi¹ž|||èXjâÐÇBžF­g¦LaÔ2u¾›¸rq:´JÜb¦dÊÐ{¯¼³  èK|ÉXl°ÛÞˆù´$‰ý® ­Ád6Ý˜ÎÔ°W±‹Ù.VÂ²Ê-šT“—z“y8ƒ¹×$»è2jSÇÒ/¿ß_ìg{Rãº“O˜vA"IÄ-VôOqQÍÔb´]~Dã/£?èvèi’¤+§V´©$YóRÍ6s‹y°Åš{®…î¯k¼ŽM¯Z:å2!UÇŒÏ|C­%èr™:#¹(æ?©³û[ù€}½ vWHª\³Ãš[dÊüeYþYùþye¾nÃFÿæÀNÇ#þ'sÃŽÃ¹¦ç÷æ0¼§Ë³ÁÃz<É\zob&—#ž'«•5É:d«d¤q½`v''§ìödÞ‘ÈÝ‘ãI”å.h* ’ÝR©|·ì¹|t\¼¹3º¢"nÀWt‰öÓ5Zo)(ÆHclBŸÌöü¨…ÄÑ•ÍR˜kD/2‰Ö4%Œ²ù`nRu\…¶Ìç¿!4§!MHm,-mÎó™³5ÏTÅ•OÌZkç3»‡"î"g)Yæ»Îç›X>%-Ï`L4Ó3S¯­ºkÇ<nèÉöû‚EU¥IYÛoÜµzŒ6ò¡tû)G°J£NR{5lb@ÍJT©žÞ”c©œ±×tÌÌù{á±oQ™F›Â§0)'’ºáDú¡l>›dUñ…þìÙÛ³#Ù’„nã‰¸ƒœUÞ%âçF£¸ûÑwÄ¸öe¼ij¾0¼u¿âÓMë;[€tÆ •¹'ùrç\~ßCIVcÐF>R×„Ê¯³Ù¬ú|¤M´&$™ñ«ùq	vÛþÝäÅÔlƒ6ŽAœ?î”Æî.Ði4ãìY![§Q’èÿaÉö”“M}À”Ì¬^9N^)g§ßŸ™c[«U«å“&•j'j×Úl9N‡Z¾¦t’ß[ê]ãtÊmZy©Ó›3Q§²”—WtU
+jËp¾Â’2fì8	N<­±œ0K¯9¶Ä[Št–"‚N0ô”5Üàš#G¸Á#GŽÐ¨âˆâ'<BŸ€d^/Íªó3žÉÕò’ø`fuîùŒøÚÌ9¹‹åsãçf.Î½>iIæ¹Üw›-×*'šµÖ‰’Ú¯ôZ½ŒØ‰¢¢qâñ‹Ia9¯St™ÈVé
+ÏéÉ–.séD'ûéÅŽâ„ðGoìgã9}n<¯ÓÙÒâî›,Ñ/Uôáu¦0¶»LÃ“Æ]°<fŠååâŒ³HönÈž¬‹34¦­öj5“|C¦5ë*Úf=\`¯žÈ´¸‚*…aºß7! Wz‹ÉÝÙWäT—OÏÚSl/©¨`Õ:…ÛÄßQTÒT¨OÂOÙŠ
+ÝcõüÆšþŠäTYE…B¥HˆsÞTZXLH`uvÜÑ9ùÓ*/ŸôõÌ”€H¤w­]ègãˆ?æg•e>bO²ûÒ}ÙkYëK_“”dOJÏfeR{rÑ8¸zÝZ{‡‰˜L	[4vm’]+c3|Ù
+7L ß€ZÍ„ÅXApS“êr½Ô“b_¿þaë£i©y¿õ¤[X)ãå|y‰5–RïU–:ïÕÊ¶Ì•Ê%™šÑIR²½Ô^g¿‘íL’iƒ*üwŽŒeÆŽ›)½° „a¸©Ãm¥íô6^¼Áô„Ò@(2F>²\Œ|æâ`§01=ã<ó%»|3gí_<±37peàªeq&®$cÌ¼BW³åúK¬8£ZÝ2…ûæ/OW±B‚5KKdï“íjûë;¼iÉ&'lf¾:äZú†,þ0NÍ
+ƒ¾ìŸÞýj‹Õ!ÕÛU*Sðßx¡FA
+endstream
+endobj
+144 0 obj
+<<
+/Length 17637
+/Length1 26344
+/Filter /FlateDecode
+>>
+stream
+xœ|	`TÕÙö¹Ë,w¶{gßçÎ–IfIn2“=!sÉ @‚lA‚,neQD6qãÑâ
+HµUƒE
+.-¶vµÖµ‹ýÜj©¶Ö¨õ·¶U3ó¿çÌLjû}ÿ?“yæÜsÎ}ï½ïy·óž3ABÈÀ¢òŽÖ¶vz˜ÞŠ½jWwôtÏFV¤Aˆj„c]Çì9ÍkönÜ	Ç}pìèž-%[¯¿™…þ:8ž;·uzß%#›+¡k-BŠ·–®]2ÌNcWAûÐ~téæþô»ÍPT¾4^Y1¼r­ê³woGÈä€þ£+—lFvÄA['tV®¹bÅ’{á„ œßfZ¶öòí¿¹ÿ4\Z÷³¡åK–½ùèÎû1-è_=|—
+†ãðÐÚ—¿1Sû- ½ê._³né’x«ûF„˜ÐþýµK.fNÐ@Û0û/Y²v¹e§4
+Ì€g "Ãë6lÌÎ@Ë¡|n¾tùð?‹kRMæ„y§!oübÑH@T6å\›ÞÔš%/¶Ü×/B÷"Ú‚ÐŸF2šzŸÚOÎbrÝ²]øº_ó‚óUs3ixþg2wfîææŠ_‹H¡'?¸Ä¶˜oü;rç.þÐdËËøûÙi‘2wŽàæ¨€÷Àoº@›Ù	Oª@jÅŠ3÷MûÐrzËÐ¬‚VÀ‡aÈÓNxMŸí÷ÃsøÑCJ}¦ýD5—zÚÐÝžY—/ÓˆÏ×1äyµÐBAÐŒ<€axS(‚Šð¦P¼)”‚7…ªáM¡zÔ Øo
+µ¢i€3Ð@žTžû:éCð„ûbáº~Ee¨M†3¦@ÿ4õ¡ÅhºÝƒ‚Qƒ1F%pÅrèÓ2ÞgôY‚.ÎõÉþñ?¼—f—~e4þ_^-hyÿ ½A©á½™zƒdz˜³ìaÅÅå!UúKïWU¯ª7pþñ÷ý…·f¼?Àoí/roÝëú÷'¾4¼ÿÁÿBXaì2~`:b¾×rÌÚlm¶-±½ã¨ršG]7¹7{,ž/¼k}S}ÿ³gî#wªBó1—YÐU´åË2Œ×ÓPž–/3(‰\ù2;¡jQ¾¬$õsAê/E`LÖ¡K`4ª`ÄÊá½M‡º¥Ð¶Z×¡h#´v@ïuP·Ú–Àñ,8^‰6¡5pté—Ž.ìû ôNÊÕPú:Ú-¤÷0Á%P“»£2h™×«­jCÐ¶!íäî7.ƒž òç…úà?=¨Ó&K@AMJÐ:ƒæÀ÷~|Ìþ­d†Ñört	»ÉìNTÁ‚°»ÐJVúÙ£!(÷þ§k(eK¾Ch†"vâË÷àCÝ_®S†ƒ\ÿhA¡ŽÝrá¹ª_e¿P<‚ôÿöºEÙÏÉyjÔÃ^•ýˆ¹u²‡P'óê¤ï@ÖŒbì·’îCqÒo
+”§"Z¥CuìãhÛƒÚÙ[P€½Îé@“˜Mh
+ý#¤gï@!æ_ÙQÅ;ÙÏYÒ1eG™ý¨FIlbh>b?ƒ±)Üw.3¿+¯ìß&øB`·ðYŸAéôââÿæ¥Îþÿ_ÔEÿ_§}Œ~Î‚¼¾ŸçÑOÑ“èvø´£×Ñ«è4	är6Áh=ê‰Eè2´‚ž>
+VgšE!Ê µO¢_ .Ð˜Ãèfvì°;èÂèÿjæ€¶¬ÿõ(å§ü`#{€úY¸J;ú>zh˜¨8ØË«Ð5`§§€Íõ¾ý}Ji(öÐ‹À/þ=ŒþHýD7ÀÛ‚†™næGÙ×©—˜
+zº¨ÐtÚO¿H7ÊÖ^ôJ|Kz‹–_Š•V£sÂ9ÿ9ætö¬œ<ç-ª¾ñÅ¿&¾–~­û5V|Qz1ýb÷‹‹_\÷¢R|Az!ýB÷ì/ŸÄçžw‰¿‚>-ô¼ÙYýÀábñŽÃ.ñ›ð}ø–bñÆÛ)á.ÿ]7ÝÅøïºç.÷sßýŽT‹·*tŠ·Âçàm~ñì»n·I”U¹E-þœ >7Ã7”ÜŠTËOr†êÁ'†ŸØþãü…Çiùq_-œ¡ÏŸÙ~æÃ3QàÎÎÓœ®Zþ^Ï÷núƒNQü)ñ£nzŒ\Có˜ÖP½í/Ô¶wÈá‰·]bõ[ô0ýð1Q|å˜S<z,)
+7Ýtýò=Nñ^øl¿‡BJ®{ðžYt‘p}÷o)ñÍá7é}×%¢ïRüÓâÓôÙ§\âàó}øœ|Ê+>µÕ-îÛ+‰{à³w«$îÞ©wíì¹“ºs§K¼ngP¼vGÈ¥wtï wìL‰¿†êí;oÚI¿¹“Ú¹Õ#¾ð.uÍö8¼}ûvúê­SÅm[ƒâ–­	Â{·‹ªÑVjpëðÖ¶2‰R>7”DùH±!\ÄC€÷‰·Ç«w8]z«Í®7™-z•2&:1Ñf‰fSLd™¨(ð1‘Œ:Þ ã4ZR¥Ö1¬"	Z'ú$-*)I™Vv+ž—ø4ßÍ³i]Žîf(	¥ÁÌ­C¬»A-òõj‘©S‹¨V-ö¤¨Sêêm1Sð=»y$ï:­F³F’ñ®®gAß	Šº¡jGèÝ§)Ô;Âî>MÃ—©eþ‚¾Ó”7ïtÃ!îxšÚ¾sÿ~÷	6_êï{G–uÍîöö$qá&o?ŠÃkCîÿ7¯¯³m¡¶¡%#¯‡ZO¼ñ:.Ž¼jùcÛªyßÓ68òGhâðm.›ÕLmØˆOÛßß¸)_´am:Oš7l$×Ûë¶oÄD¹^ó_›Æï‹Üã&Ü+g¢…_gýSs§Êf –ä²c8"Ô"- é õHh@@ñ€A#²_ 2š‘Ðø9Ì:,€6dÍ~3Œdt" ‹ 9=ÈèE@à¿ˆ¼€~$BBì?!¶ÄX„B€‚Å(œýÄ}E€QŒ¡bÀ8*L höSTJ°Å%” ,G¥Ù¿C\Š1‰Ê²Ÿ@t*V¢rÀ*TX’€5(X‹*³ÿ¢Ï*Àz‚¨°ÕN"Ø„ê²ƒxÖÊ'£ÆìßÀOlAM€­ÛP°MÎ~vc'jœ‚Z²¢©¨°µNCí€ÓQàÔ	Ø¦d? ›q&š
+8ueG!ÒØKpš8uÎC=€}h& xÀù€ïC<Ð¸Í@s³…¨`àbÔ8Hp	ê¼Í\Šdß´p9Èþ"­E€+ÑbÀ!4±àj‚£‹²†Hkiö]ðRË /AË!BF+×¼n@«7¾QßÅ€›Ñ@ðq€7^Öeÿñþ0àUh=à7Ð¥€[Ð†ì9´mÜFp;Úx5ÁkÐeÙ?‚‡¼ðZtàNt%D×¡« w¡o îF[²@{ÐVÀ½hà>‚×£í€ûÑÕ€7 k Ò¸í ¼	]x3Ú	xºð Úø_h7à­¢½¥Ü†ö|¼ù~À;~Ý õ‡Ñ€w¢› ïB7Þø:ÌV Þ‹þð>t+à‚GÑmÙ×Ð1‚÷£C€ÇÑíÙÿFßBw >€¾	ø :ømt'àw Bw>Œî|„àº7û*:î|ü.:
+x|ÝŸý:…Ž~}ð4Á3èÀÇÑ·Ÿ@ßxôI‚OÁÜê·=<øôàY4’ýz ü!zðGè»€Ï “€?ü5ú	:øS‚?C§ø
+D/g ŸEþ=øzðWè©ìËa|}ðEtð%À—ÐËèiÀWÐžüÁß¢g_D¿C?|ýð÷èg€ÿ~ž}½Fðuô,àè—€o>ÞBÏþý
+ðmô<àÑÙ_¡sèEÀ?¡— ß!ø.zðÏè×ÙçÐ_¾‡~øWô[À÷Ñï GÑ«€ ßg‰>DÿøzðoèuÀ	þôFöYô	zðïè€Ÿüz;ûôOôGÀ¡s€Ÿ¡?~ŽÞü½›ý9#˜AÌb”zjkª«*SÉŠr©¬4EKŠ#EáP0à}^ÛåtØmV‹Ùdxƒ^§Õpj•RÁ24ÌÚ©ø@§*îý¥ùc×…Ç#L‘ðq`™.èäþÒIž/{¿tì?ž1‚,#í¡–VLøjg™G(ËÂW¡ÌÓáJù“Ú–­ët¶,„3ZC‚¤ý#)+„ö	­¦%Ô²\Sš@'4Z(j¡}‡OPíM)Ðímõ'h¤Ö—&FLµáÏjðÈƒPµ%h1Ÿo èú‰MN+”Ì¹5¢lQ‘ëúÁ·/Aûü'g÷^Z@ÆuËBË–,Î-{<˜¢¶¡^ÌÇ6üò°@œ€jümCþ½!Ì00Pg}m=Ts-}»gIð²«mÄé€Wžs3{Û«üøpïÞ]þ‘{föMl`ìïïwÀï%‘	k[ÝâJ¹gÊ3`Ùàj|ÍÕKð}¶­öïÝ·œÜëõäH×¶!˜%ÿS¯½{Û–…Ú–-YÖœ£Þ2"÷’/Ô;¿< °®µ?_•ï -,ilíä˜Ý5«¯ßXhI«;7ìã5ƒù¨h+4úñL#þ¥þ4«/]k1,¯E{—Öá	ôSpVÏù³FEBÈ¿÷ïh„¾aÍ’|²Hø;ÂÅöPûàÞ½í!ûÞÁ½KNg·_ò¡½'ººö·ÂU{úà¬ÓÙÇ÷¹GÚ¯ï‡¨zà=–€öY}iwÀØ_8ì)"),-yàüMÉ—Qo_ÀŒšÓ×ï>õár/”sßX@pkaŒólÃ<Z^;Îž–|1ÀÒ¹ï´Œ.‚ƒ‘í3ûrÇ~t‘ûQ$KqAÜr¶Ðbƒ[¶ZÆOÁUN’ä‰uDÿã›¹m¨~„²ý‡æå¹ösKã¦ûs%ÚÍà’&šÞ8bC¹$¾á…ÐˆQôu7öû#X <z³C]3ç÷ùÛöŽKA®&ÿ¤X@ÔCK†öæU	ýÝÒÛ7±cÁ–€h>¢vÏ<!S»gÏï;# äßÝÛ÷(MÑ-ƒÍý'ÂÐÖwÆLji\‹+ñ .,˜ÒjÒß}FFh;ieI9^
+R§.ÔQh)ÌNHP¨£¡ŽÍÕÉ¤¿Js3{œ‹ä4ÏãD/ÍÐH© /øÊ7¨R…¿Yj¤$éf¤QåZ•wU°
+%‹”¬Z‰XV©T+•¬F£9OŸ…ó–úÊü+ß žHŸƒËáK º@_‰i²J¦¯Qå®¦ÂôZö|nß/Q«ÔùW¾C¹âyúør:®ðt*•R¥dUj©XÊpµZ£R+t:Ý¿¡¯º>7N_óeúê¯ÐWÓ×ëõ_¢¯`—»nœ¾&O_™?ø
+}¸Õ8}xÁ }ø6_OŸ›Èâ4ãôµxE·4…§#ô˜¾úKôyžÏ?6>Îg•_K_£Íqßv>¯:B_Íaú.GŸSÃ•T‚ |‰>FÍá`¾A{!}¾çès*NMès˜>ÇÁpœ¾Fã…ôA¸@°5ykÆékõãôõ˜>n1ê
+­œ˜¡ä4
+Ä)x|Ð×¨õð$&“é<}œ¯P)V­Á/N[ “æóô@Ð7é­˜>§ä´pk
+A§ªÔJ-§˜Íæœ2N¤¯Sk5äg Ü²Î0NŸÇk3¸Ål(Ð×h9-§Ôh•@ßˆÏÎk9„x‹å<}<ž„>§Å/î<}=Ÿ“Ä‰ô-†B+¦LÕ)‘ViÒÁ©0 :,°Z­Ò­FzÔ4[_XD2 ½0N_À™gÜbá­ZF§Qi	}3œ‰GèCŒj³Ù¾Jß€éë&Ðç‘Ð'òd,Ð·
+èëµ*­^‰tJ³^§×Á€èµ°Àn·çÕŸç+9 ¯µ†^ý8}Þ8NßIòÜ&ZuzL_gP!ÊbÐéõ„¾‚l‡ÃñUú<Ð7è:CžÁ8¹bš@ŸÏÑ·ÏÓ×tjL_¯²Â™zFmÐ™€n·;/ðÂò®«nÔZxƒg0NØXð7o+\Ž,ê¹Ì¹V#2ð:AÏ52¨œ¬Õq‚ÞÓ¯×{ž>–GµVL:Pk^àyàTmœ¾.‡/<ÖB+/èŽ7rHP»Œ‚Q †V˜‡øýþó©wl«A«Að@íŒ&ÁlÊ7X‘•¬jñv"~"„D{¡U0ñ&^#˜9dä<f£É¤7hÍ‚CàÒ¿ž¾Ùh6ZòÀ‰+'þÖÓÇ-þqúFo´F‹™8¯Åd6}˜Iå‡Œ§¬®]°Zàm¶å€Ó`žœ$b¶ ;¦‰PØ•ku ³Õh5éÌ6-²h6‹Õ
+³šÜf“‹Å*˜lKAj‘Ëd·;l«Ó‘oð ·˜“#|Û82À-Q_®ÕÜ3;,«S‡ìº"§Ýá€rZE«Õ\VV–6, p:°Š‹Ëér¸ìîü"ù‚99‚W¯Çà–Ò@®Õ‡ì.«ËÆÛÝzäÔGÝN—Ël\ö ÝnI&“ç×’±­Ó›õH´z<—Çéóä‚È_”“xEàrdÉ§"œkõ#§ÇîuNÜ†„ÏíõXlFŸ³Èé´UWW£ñ•,lëx°*»Ï'zE·_Ì7„Q¨$7’˜-(€ï¡ªH®5„Ü>§è2yDyùr¿WôÙìfÑ]âv;êëëóÃ†Å„\ ­;ýþ€ð†ò@Å¨ˆäX‰À$€ ¾ª‹æZ‹×ï
+xÌ¾ ‰ÆTPøNKÀ÷z]õmÊœ¦ŸR|OÑúØb³ŽÖÎ¾%»5|Ú ÿ)ò«~ªô)q""1ÍSxåg¨a$žâ£)i …Ò£éÑŠòx|€
+#ÐË"«’6
+&;ýTæÃÌÏ©ÊxögÏ<“9¤Þ¦QwS
+Ïef†3;2ýaœn»ØGî"ýØî2­Àw€àð]°?eüšŸj}ª§ò·¡]ÇR,¹ÜÀè„¢ªÚdèâ*Ñû2?Ï|øÌ3?;K©º73”ñg…©ãÔê&êhhv8ãÆ×_’¹‹z}ª—ÝÊ-Ï‰É@TúGÑÓ`Ñ#m”i¯76*!i`.WdQª”ª¸‰ª¿P0RUYJÚ¨‡&Çâƒ%eåÓ¾˜2ÕÒÕÚ0wn¨s{YùTk‹¯ÑšUÙÞëÞ ×C½H?@_1VP¶RÏŠ´=Bå”LõPµMAž_.Gªôcß¡{©ïÄw½?û>u7ÜµË.‘“8š{žA²F¨Ag‘RPÒJIŸÖã›#it€ÜñùÛ¼{fmíLüÙPÛÝ‹8Ö^™}‹½†	ÂBC²'æ.
+Ô»«\‡µ›gU»[õÃœÓ±‡,§qn_b†fÈ€éttÃÉZ}oOO	<Åëp-ŽP‚!Z?7¦¤ø@<7lp[”ÍfµàÀn®8‚ï¯¦ß"SI‡‚´ÕbJ%M,#§g´¶ŸÝ|õ/ÒÍ“Ó-ò/®ÙóŒ÷Èõ7½óÀ»˜û§?¿~÷o;¦LÛ5ãÅ+.ûÙÌófÂPÊÌg¼¥ÌÀ¯ÌFáÙ\èJY«9¬Õ
+zý …WÉ¾«ÕÕhÈÒ¾}$h($Xöi¨5µMM©áOšÍtÞ“ø™Ô&½PíqKž´‡öÈœP0šêà)á1S©ÑdR‚û“é”£TUãÇ«2†ªRÉêš”Ri5Zlv›ÍÎDÇù¶9ÄÀ¿jÖ|»h6£½®ÍÞZ¯Ò”–Òßïí)›üpÛØ#¡½ÖDÁó\Á¡ž§­—{*”°)…„¤^Í_Á­/ÚÃ,º¿Hõë5ªr­±F¢\.ãáž–n§,ö=àZ{$/!ã‰$¥$%%ÓÉî$#ÀdSÀÃdª«—FëàêÒXÝ‰ž#÷WU	•*2Œ9Ë`nTñ_€µ1Ï=Ø\2ÜÑ='d÷\·jòF¯ÊšnJV7ÖÖÜ·è¹¿ÅË«n¸eÞÁr†Ú-N/uË‘˜,‰s·lJ•úûb‘†¶úêµe¥µß»}Êåe©)“‹ç”`3XxÐ‹þ&Oçe³“19M‘3	uÆ§W8*:fLvLîìš1ÓÑ™_2»sáŒ¥ŽÁÈê’ÁÎu3†'7÷\1Û;­+øÍP(ÒÕTuuìpZÏaihÀÌqÖÃx‚,ãÔÕ*ÞÓF¤¹Í„9×fÁõmå©=uu¡6FéÞƒf	³èYXL´¸Û,Â`8þ³ìÂ]gÍš+Í¥¤¹é¹Ýs^·G)kù%˜ÒºÇ»£&{°—G%°ª …°Ë×h]]Eù UÐ–<§mXŠ°L‘¦±üà(¿f|ìÅSYm¹–zwÑáÚÚIåUi«RUäö·Ëëb‰
+»(^<kÇ¼½Wn^SÙbuúÕ*KzRUE}]ÝÑ‹¯º·¬4èñ‡6Ì«Ý–ªjÍü2s@*)ª©ènˆø/²r>o*I”]µ¬zuqq|Ã¡Û·lsêAµ VÔ0-Y¹F’ê§T¦†K’ËãÒt‡ ()Ž^½ôì‡`*`|Ù.ˆBôè˜lÑëtûUJÌ­Ô©8JY`Æ*ŒJ/3CF
+ïR1º}Hàü`Ép`ýåÈØÁqæ$(¼#[sãÌóx(À¯ÀXðÄsHÂˆàqHcõþëêZzûNu+×)·)™þ]eqÅá°±!cÈ¨¢RÆTÀH±ÏžÛN?µãÙÌ¦±só3uÔOï`æ}q}ãØz,¿™Ì9¶IT±<+êÐtCÌÁâ²’”•ñ„€Ë2F­Êê»ãbÊÝ ¶¸»Ä¶Ç½@dÝkÄat)%Ä¢±xt¤È‰ÅNg_‘ÝMNÆˆ¹<¶86cbE¥a,”!L6,ë…šp8ðÍÒReôvl‡e%0sFÁ<†À»&)/’‹è¢’’"Î·»€ïrºøþDŽ`¶2ºœ¨*( ]Ñ]±¸b[…ÒÄïád°BÜD9ã"aÏKxz7nƒ–è±KQW¶"8¤ðPgÆÝØW{±9`09'ÒÕ</óû·ù8YÙ˜¶)Õa§«+)_Zß¹½g_MËú—c;+KôM¹“úuåÑ«~›ùóý—¤¦¥‹üƒv•C«5V¦jo¼dÿ™ÆvýÒ£™>º4ï'SŠ‡!¸.A/Ëå²žòëK¬µ¦:«ÌÈœ¬—“MS­r¸ßt½œ2†¯2l3mr˜ÝhJNgÿ]øþÿ^†¹f÷›»])æ‰0‡É‹d3Ë³‘ÃJ§ß2!k/Â½*ñˆÈ2RË„bRŒ’béXwŒ	ít”Ž´êÈèH]ÎºLà¿4 œÆ~x€Õ‘(*>0@MôÇÑÙUJZ…ùiRÌ	ñËÕlª+=åÄàº“i¹z€Znšÿêhhî·Ž¾zë–®«)öö-—ÝB=7tJžÒ>«kÚk{¨åÔ{ó…öÌï^îjÊ¢ßß÷Lm³nžó½Ì?žÇÑ¯ Ð££gùtkáÎ)FÜÞ4c¡i&‚æ"Z‹‘Òèk´Zævx\ÚMÇèzZ¦ÐJšˆ.§xèÝHO£Ò«é+iMk	}xy”ßñÁð2µšë%-¥µa†i±DÆó.0Ç%¬ýX8Áôb¹Üµå™8§¨È™WP{V1V³…¾;sÙ¼‹¢b…~óæ£ÏŽ°Ÿ²FýÅ³©Ý8›6”}ƒPŒ+IùeWd;™ãkì2ˆB\ÖAðQ	Lø²!f)œ¸‰cFÎ"‡Ì)s·*^•œêmOö{ç&WëÍë¼ƒþ¥ÁÁäj‹bXµQ?l¶_êßØ£¸Îx}ðó`à;Îc§Ô¿°„¹XÀÊ2îÃç%@˜k<[~˜q:öÝdºÇD›t¸Êä;ýì$.áÂ)½^ÙàÛ“…OH>“Kp¥ŽÓ™¬¬2¼e^0+¥Êtå`åp%[ºO £)alÎÏÆãø ‹a®8\ØGBYØP0Œ=vuáqgˆZ!rª®6oWŒE›v óÆû¯g>½óŽm[)ëÓOxíöû||óúõ7}©«9VªxdÅàü‡nÚ{uù·>~ã‘«jìxðâ#¯½pçòÇê;¾CÏºòökWÝ2»ü®±¡ôââÈìxå½+<vŽ{37°~vÌJÐÏåhˆJQ-ãf$:ÎTs¶nº›éf§Ùæpómóƒ+¹µ¶UÁœàÃ¬]£ëÀCìÁàÿ¦Öb0(]‡-zÕSÒÚ=ª¸ŠV©ŒvÂxû^<µ¦‘¨ºî+ªîÝ+)#Qu£€%×Hú/Puå	R<Jì¬© ìh;SÌÅ5Õ¦e.B@©$"ñwž©5•`[«Yÿ%+—g^?išÿÛC³Ž¬8ò7ÊþÜ›÷
+Vò[·Ì¸¦–¡iöáÌs/½Í1_h¥\¯¶OÎ<ý<åÉü0óÅ{÷ÜÉûž©K³›¡Ñx‡©b¿ân˜ÂÆÐ=²¤
+X){ 8V-ÖúkËÅo¸Ö‡CÚh4VÂ©¯øÑ˜ÆpÇ# ¬ì¼‚PPˆœß*:ý1êWzD€µ&°6ÃlXJPÖÓÙ°T+¬š[x`‹YEÆ\LÑ¬íˆÂZ{vê£å””Wx;v>»„±³gÏTŸ­ r!/¬˜€2gÿlvk!6!sŠ"~ÈN1ŒbÿØ‰+Yvs†÷„zÍÖî±÷\3œ%	ëÅ½¼‡z•íScÏüöå…ÏÆ¹4TSûP"^m,I°´Yp7TRZúŠý¼¶¸Ün0SÔû=Þ»ž}SÁ)Deè^ù
+o¥Ù Óc	F¢µÞª@y´¼tª·- GåÒÅž™žà*z™æJz“fcÌb•µBÍ:Ó6ÐiË‹Éddœtì0ö¬E7#sü¾„pŸ1a4ßg:].•Sâ¥wT²8$Q°x)‰R+¿'	Ÿbý>…Iø¨„õâSPb¬Ú ZëØÐU•¦|¸Y“2‡"$28XpÜ5v%K¿¼í/óûW-\ðÏý«œíáf	r¼üÚ9KŽOªon“åGÖÌÜLNstÍÍœ,[´ˆâ|².[º¦RjÍ(§>ÔØ:}nïÌÏîØýÇ¹sS±ÄpsøåÇ@wœPìC$¡É6­Ÿ)µ¹bâ4q±¸Øq@:`=b;ýÃI„J¸ {teƒM„É“‰PQ‰¸	£²ANái•w8’7NÅO~‡XÇBfÌ(tºB®® ‹·ZïQÝcÀd20èp
+Ç&'@áYÏóPÒàÓ•ç8?w3óoÖ#Žü‰¾†U¹˜Ç˜³UÑcç°Ñ’g®âÄîµ—d>¸eì¤w€÷¹íA±ÓE¯ÙþÏ…[nøû´)m?¿*ºÒ¹ú’mßohª£Ÿz,óéœ9½Z•>fQ°ZàtGwKæ­ÞøîÜY‹êó§´Ïïé}¤±Œâ¯€³"ŽÎMüé#”	G“ƒ€}|“­¨>(˜^F/;·
+/S/—«·«oRß£fËÝÅF=Î!µ:?Ñ>G8…÷Á‡Ô„Cpüñ:j¬Úz¬ÚjuÀ¿.°-@¦ß$h8wnìÜ¹8™%ÓcÉ‰ÓïÏ¬9eÎÏÁé_]í^aølQß/½Mœë¸¼!ëâ@­VëKKX6$	:+ÝÑAé5ºêÀçc¯6ãù¸#û±Ò¼H çä€"Xêæ˜P0x5§¶pœz
+GÅ0Gb1uh;zY‰]'Ñ-,0NüÀJ~Z%1ßÊ2â;e™óM§Fn»3`zÙ‰û69‰ 9±Œ`¾8É™ÎÇJ»¹ÅÜ:nÇ†8u,ÿ‘ £ÌGL˜dÛëpxMåÄì“¤ •Ìtâ„qçÆê’ ¿0Ÿaó7•çPˆÊ3Éú&Rã%¥É³ÑvÎûâ¨è·ßd{Ü½]¹üîðUêVÆç÷y`”&+Z)Ÿà¼aíçc÷Œ…¯ºÖc‹P`÷BÏ†}ôe‰îøü'ô‘oì´™Ãtèð„Ø{È>ý
+t›\"3“C]ÑžàÒÀ`p8¨*»©üªa£R	¥|GDÆ`<"D¶HÏ±²D)>%¦hþÞ2ÕVñ^áû¸ÐÙ	7íµ´«¥ý±ä¸ZŽ%ÏåÜê(‘«QGçô’DÍ¡Ë§¤:?97âXåžyÓ§Zq·=lZ»Û±Àäs[Š"]nz÷Oþ‘y!hsB—ÎÙ¿bÍ.¶tÝ·kk+3³BU•sK£Ö'‹Yª5èµtÇ2ëÊWFë6'¤Ê±ý-8úZ”ý#[ªø6’Ñ§²£YÆÏ‚ˆGSÑ«j’8
+!ú	ßû}G> µœBUd«÷4EPÌ_Žšüåro]oÓ%®a´•]Z3Ü°!möˆ[ÒÛÊ¨²²RÆÜjªn¨njohošÛ jh=¬²ê–vP7¬£!.7ß¢4'î+-•î+kj`jYÌÐZ"­µÛ<¢3XÔ9·1§›¥fJsŸV«¿Ï¯+×Éº«“ð¼8<Y„ÏX<so<KÄG";lð:ØYç¦Šñøz*7Udñ$FbR_ILL5^àšr~	þ˜_—Æ3ïýjñ÷Ûâ=†™Î–šÊ}ÛVúýâàâÉßštùÎæIõwÍ½è›r´G=ÓV“ˆcþâëæÎš²¿¹q½/yY÷“Ÿ4Ä¦PïÌ¿9ÝÐúëçˆ¸ÒžêGöÏ¼¾¦²¡±¤5ù_õmWö-¼¢8”òºš•ý"ûê}ôrjË	o‘ÍÁ"-£Ù%ÆÎhÌz³V›¬À†¥á%<C"f÷	åÿ¾¯|·¦[GÁ´&­ÃE9 {ƒjG)ƒê-Ø nÐÔG¦ª§hšíá)‘>Ý¼ÐÜp_É"iH³:~•f³nSàòÐæð•EŽ ?Ñç5ZM(šX…‹®.Šj5š¢è5JNY¤‚þ«u¼ž×s.¦OsI}7×ªàæk{õ«¹ÕÚ+”Wh¯Ð_Æ¼^
+sJ•ho	å’|RJÊÉá$kÇÛ•¼?ª®Ô·ê¯Ô3úp[ˆ*É¡M!&ä,“PHa;bg6tÒÀ È…½Ž’Æ#»]ÂÙ±³DT^Ø¥S 
+êÑ]ê³ù¯Šrj`=èïÏÙ=˜ø2!˜åÑtNdr.ƒˆˆÉáµ)/PUÕûÎfO(.t<¹vaæŽÌ¾¾¥¯„¹ÏÙâ¦[¦]¬¤í›6P]D-ï
+:tC4fÐj´Õ¥Þ»-s„mýüIjý·íb¹ÅhÃÚ\š€¦/sqfëýü—ÿ¤6\;Ðæ–©;°vëó1ÍtªB¾•é*E¥Å`)+z{[——o.×x½þd²¬Òy^«Uµ¶vêå¹zJÓYé÷jU[;[“eµeóÊè²­~¿ªÈYäOÈ±Î*g¿Q®ïls¶ù§ÉS;ç9{ýåùËœËýkå‹;7:7ù·ÈWu:êdƒPSW×0X2\B—Ä„—%%‘ÅÔ:jÅP8Ú¤(§^Õé/«”#ËtÜË j¦óÝb·ÔÍLï6áªP2™ÖY¶YhK¡¿Ú­­o`#GŠãtˆÕ-GÌ¹X>F2 )ì´È âˆSÛ]gÏâ÷UõYA1vãñåñ¬‘¾ ‡áŒ|u¤ñ,37ÆVe!¥m3åŒ„]qblhÖò²pÉ%Õ}oMûÀ5ÓU™öË?›^rE¼"ê˜ã¤o®ß’†æ6­?ÚÕO3Ý•©xÏ®Å=?ž/ö83=´ÛÃ/ª—êÞ˜9ãˆx Õ{&'ú(Õš9”âÖt¥Y«¡ .óâêÚÝý·Zä÷±8Ñ9ëkV>vÍ¥™7®-ÉT‹d?Ï¼£ˆe»ƒŒ§¨ŸÑ0%¡%#^IÊ/$)bŸ½¨2ï,ÏÚ“}—ù€ù5¡.ÊpMÇ¹>ìEµÍSÇ¦^iº²E™Ä©*TQH²EÀYØðà™±÷´Ù$ÍºÈ¶Á« 8_xR^”$Ý8“‰xIBÓmŒ­ó ÆæíˆâŽQÁUaGVé•];kkÓ¶èh•­"	öªNPV	8Î«z|º8]šžžÎ´A(“–¶kE½¤§õd
+¬'S`=ñ-znÖ?1-ç¸/çÂiq’à=êr¡â(I’ÌN¼°|“_LŒår`!åù´yMu¸¦j<Ä¶|}J=?³¡
+Eìv˜¤ŽÒzåä[W­»ÑïwÎ
+—Rær­É2¥¥¬[0§k“ÒäÊÒí“z·¤RUJ‡ÉÁÌ‘9Ûk’õóZ:Ö™ŒÖ)íÓv_R7?ì“Æ…®¥ú©¢Ñh™Õw$Êzžb{¤hÛ²_ßQ\&p4õ‚³<gÏh“ PÏ~”}–­Pêð<ˆÒÉNÉ7›	VaE.	CJf^‘Tç¯’VDYÓqóK<ª8Š°ŸÄñ¼²Á‚”6&tÐ%¨T¥‡[;š‹V Æ»#Ÿ˜$Á‰;ü$o³D1<ŽèÉ
+¾Bªè®`T÷«Õ¶+#;ÍkXò´4>]q?¹Þcw©%¡ƒ½SÔªñ]hÉ½BíÇ'1ma€G:žÌ…¹¹*™¢âìGÌ¥>Á![>©L2ÊÅªâ	ÁZ‘Ýh/d<ªBÁVdþ|fæmS›¬è0÷»©ÕUÓŽSŸ¼è/™Þ¾*¦ù|Ój®<H}ðFæ¥dlƒaêK˜‚­<Ü·lçÇ6ÓÍÍ™·>˜zG]}g4öC‡ìõ„ÞÇ–½3ûs'èc1zZNGIÊž£\«÷„ÅF:¥M{’â4z½ŽÞFëÅ°ÌÓ¼ŒÙÆCÀŠ3ÇŽCœ"[æ”3³¨ÈbúµŽ$ì…^)&ÙáÉë¢|TŠ¦£ÝÑÅQ…o£ÃlgH"”Á}‰Ž3†hóD‰ðI<ÇÔ|2á<IÊ	ÇÃqEž¸˜×”		 ¬v¥’~óñä¦†GWÝ|ª¼¦a²ƒ6uDËçE‹ÊŽ]·dG­Üü;åùpè±©óö]žœÞXTºØ&Z£5É7?þ×E‹b›÷‚ëÌžc·ƒt£I”îJƒú1[Ò²ž#š¬OVÖvr}Ü*n£õòIjïqßKbA¤IŽ5Œ…ID¬M%2ÅÇÑKTÃA•Í'¬5>Ÿ.Ù‰^	`¡ÄTX˜ÉÌ!@¸ +L˜C?æ[ ¯0aV°6±`OKéîô`š©Ú¡ÇµQb²4øt=IÓë	‹óå‰Fˆ‘œ«þ‰¦ü4$Ÿ{ôd2Iø/}2z€ãÔŽ¢¸ªø+«ëö	‚žóqEÆ¯KÎ°Û3ßâÕ•·Ïì½³¾¡mêäI'¶í,÷8=‹k¨¼ÛeîôenS‡ÝÞ•Ë‹‹âþHhmWÏ*“Í°®ŸÚÕÚöÃMŸílé	¹©y±6“ÙÈ6ÙùÏ~ª0ê”Ôz²«Ñé4Õ×>´ªwOCmk;Éw˜“ ~Ã: s—ÆDÎB™ê¢Šn¥¬›¯X¬ìÑ­V¬Sê6‡M›EƒýPÝ‹1Å‡xÁ‡¶"ª¿ß{±ùïG(p­ÍiÚ˜š(íÉŸÝ	&f¿–¬Šd¥Œ.Gü
+G†‡#Ã=Ïs,™OÓ¤ò9°8É¯ÆóÜ/8‘È…NÂÏ~1ã†9ÙôÂ®Ë¾[__7©¡îUkî(/+ÛPTR¼u^ÿÕ·™­öžôª}Ê?o¾¾·³óìÅƒg@!Zjõ7/¹«±¾eöjzíöxYý#‡q>!&¢Ôß“‹™uÌ6†adœÉÃw'¹Â$•…Wˆ´â™Óƒ"0w¨¤ $¾kÄúQ‚}à¶0owwŠH4@LaH£´AiÀF^YX2 ÇÃ‚>,ì>ì<–PœïÈëÅ'²‘è@ô†%:ƒÕ
+Ÿ…eÑ–3q>!&è¼¡‰œ;7ZW'œKaó"äæÞDÐs¾›ØÊ’g6^°¦¬_‹‡ªRU•&¼2)¯%‹%¨k™’É¸½ŽïØ?í&ûG?úË#ýó·–6¹l¶Z#óØO–Ž5†ZNV›f•\i˜þÕ`ú”½¯éÄ2­Ì_A^Q@É)}\Üîs$¶*¶)7ÍSGn¡)ÂzÊ!W(ÆøKÉoÑ±)-­áeQ¦åC~¡Fvykjjøm³¨Yqî7coN¢+*fñ6œÎ¶M»ŽØâ0±Âa&<i§ÍY*Vxc²ÓW#Ö:fÃ¬‹Åˆ9Ójb‹ÅÅÒâôbfÎu:"¼:[Îà·ïôâ³¼dI¨ñJy.bsNAUã¼.ˆ±¯Û¾Û¼Ý
+¤ûR,Þ¸Ã¥8ž(š°ËxÕøÜºª°?Á°†¬¹ý!åù	¶½°3îrk9¡	ö‡¹µ¤¬)Ýòøž·Þ¸ç>ÙîòwM\ýâ‘Òþ2ªïÏEá—¯¿ÂžŒù¼Ó£‰Ûýe^<Wj±ZŒK¦Ï8[YåyxÃš¾¢Ðæ9XìèØR&UîØºb³ÂÀ¹MÖºXU¿Ÿ/Ý?pýI“aPJ^sR«Ô,Ei(º„ŽlÚWT¬»~ß˜TÛ©g5Ö¥3B²Û +øx[ùeàuš¨i²^&Ëì2‰¥ªNg_øÇ×DÇ^ŠôäÖ£8*uën­œM0¹ñwó´HÓôQõÎ¦cµÄmÕ’‘ªW—Z¦]«!ˆýº–$P‚Xkk±7Y„‡¾öq™ãeI¦ëDy|·Ì¤åÅòrVf%™Â’&Éi¨þPV:&Ì;£G=Ç¸uAªN
+¦ƒ‹ƒÏ³A‚7ï²ÃÁíÁƒLdÆ‚83†
+Ÿ‚)†{‰
+’„$¾— ñUpü‰Ã‚ã‰Øõ—.X”Ë›åÊç}Ø¹±sùy©à³pL61Q›ß¾òï²jà¿RÕ…#ß‰½,ã±×‚*/í¨ìÃ·Ç&y .iôxD§i‡Zk`Õ‰ÈJùÚœ^{‘/¯×Ôç«.8œIãØÏƒ	Fƒ^¡€öÁV£^K‚·ž@Êãð¿s,Šë8ÿg¦8ØÅŠ¿"'*B?<ƒŠaÀ1ÛŠñÈ´bn©Ýå%±š×kä2ElìdÌ3AÆ²!¼dœôqÊ§Ë…Ž™w
+¯PÇÔ…„±ÏÄrép6ŸÏYÖ\žœ$Æm˜¢_šL›Ôg"|±X,³ãæ'2Ïa—…÷¦‘xGrx‚¿ÿF	Ì„M„tq&D,¦‡ÔBƒÛk‹¹¶vÕ¤ººRuS
+¦r‰¦rFz²ÍðÅk¡2lEÑº93+kfMÏkÐ hP-µ_þ6ëÇÏ¤ XO<>k  M"ÈªIxJ&HŒ’Íy1‚|€‹ªcVÊ’
+SR,™’S³ÊV–•­¨Ú2°
+–ÚY¬ö¥õ{C±PC¨+Ä†v³,•LV—+ÊÝåÃŠMåÃÕlÈ_‘BU=ž8<Ç½/ù
+:Mwy<n>¤«¥þ¸!Qëêu†±Ü“”Ê×$d(4T
+¼œëGÃø‡õ|½X/Õ§ëYýQ¿b§÷aÃ1«K‡õtöBÛZ\ëxÚßJì€µà0q„†Ö3uçÃÁBŽz€¬eJ9ÃÚ•3BµKÀÉ±ölÊc¹¼HüüaˆÐÅ*ë¿×ºÂÞ¿ói‘\N„ÈüfÆ£ƒ³\^GÂ;®sV˜%­5Ìx¬ImžWB=Ú{uÐÑ×=ë9)ÑÞ²ž¢¯œþ^XÒNT·+‹&V·ÏGg|·órn—Bnrvù,ó§,Ï¼“n³ =4è¤Ç‰…®d.+t}%{ÉX)²šR†GÊˆ°~Ýz˜:Æ»E·äN»‡Ý
+^M«·«?T3jM~j\»ÞÎ«W»r“P5)ªMy{ï{¹)·kÂZØ@²E‚–œ•ûÏZFÛ2¢½2g¬½ÔƒËk‹»¼ÙN›tÌ›Ï¾*ÅV
+8Q‡òÌßÑj‡¼j)	ô–æ6-öYz„þHO¸¿njÝìªþöþÙý+ûµ-Ç[_j:fVén'Dn!¤œnÏŠVU¯â)äâÝ¨Rp‰î\oºÕèØ‚`„\Çfšwº+µ—îl=Zu¬ñtö\nc]#™óÃñk„×˜q˜QPxp°±°[
+ÿ$Á&2¹¼ÆÕ¶<»?–CÄÌ…	¯‰ª«=dHÜ­¶äùœ‘-„Ñ"ðWÛÁMyònê=ÙŽ	iâ­ÄG‘5hûç—<Õ{²‰¸ªàÒ‹¤¥ë–ÒKeþü&Þ|ØY(gN½„<Œû¯Ü´«0éúß9°ÿÑµYÇ]›ýË>Nù	ŒïâŽŠ¹ao±ÆÝX&j×•h<kÂ	Œt­šjP9;ÅÐªIƒ{}ášÒÈÊô–[àÌROÁŽ­÷¹m)ãØOA´À¹5OhÝ¶ÃØ³Á²¼gÌÙ÷åþ”IÇcû¾ßÙjuøWN	Uù\þ£f´9 “ÀÊïél¢Ð©\˜„$Y*DHÂ×‡C,mYHP„gÕx\k‰úMˆ‹…h‰ˆX-	R°^ŽHïàí·$@*„Aìx’ð»Bp“S÷à¸½ªóQÎû_’?³<“þ’Ù=ÜàüÓÄð&Üü?Å6Ö¯Æ6{2^{‰mªú‚bÆ¸Âuù1®ôQ…£Ó_´B¾aÃë‰Ä6ö*aBl“÷ÐÁ:“N‹GpŸ£FðÄÚhÔØ¼¢öìÛ,ó#Š £²¡ÞQ¦0µRÚL T§0ÇL;ðÞÂE„¹M[‰t¹ùÁ!{$Ü¹<`I7^>ðÏíÛ¡#“m\ÄÜæE2g™¸…QÀÜ×=Q\àòxVÇQpÁÏ	ð^¦óI¼‰©®yRÛ©õ‹lž<ÒÿþyJÿ¼Ïçêš¾6èw‰ÁàÊi[n¡þ1ôóöž­-O_þ.Éüå½®ãõM]Óš'ž2xD–§|Œ9È´²S@ºËP+ÅÉ0ïÅ¨ˆ<|;v:Ä·ÔNlrDª”ê«dÔƒÑUZÌÞøšðñ¢—"‚¾„«=˜šq6‹ý¸Í­d¨äüû
+ÂZ¦  Px&—obLùü'r3•y²o—Ú»ÛÛYËÃÅúáWì¯ /å%¼ï«À¤¼RÞBh	…ß›í-D¸3sï™¶q¹^åü¼ ã´*žŠŸ·q’÷ÈïÕ-ŒÄ¿]·ç¶êŽ¯OÌµ2Ï5Lž!·]ØiXíñ:ú½c¯Šõ0·ö9L²ê1¨+ï˜¶ðö5%’z:á¢N±³²vˆYÞ~æ²MO·¶M-qg~.×rFª¥…Vª4É ëôÕuzxÝ:º±gÆÿj:ºœ$c'—Žq×[bÎDÁ¸^Ã
+0®“)úTIDµàí!9@?æà8*œµ±ÚZScmec§©Ï´Ú´Q¼j²&ª>Ä>(ØÊ îp‡©WÔRP½½./‘KzJœ`ù®Î„·çíN‰!Ÿxù ç_KˆÄÇdˆJprÇCSRÒ"´t·Ðu;lXq¼d=†(’d­lDm6’ê*$mO4&….ÚT.Ç"å‡4÷óÜ~LSj|ìŠ•_óƒ<¼8›[°T”ñÂ%u¬r×ŒýUltˆ¥Ðà/™Z;ÿî††¶žæô‰y“—‡Å&ýœ:VqãT{æVuÄå™Yµén1¾¤·sE¦5?tÔÚ$ñV{W[ëO/[¦mòt§QU]£žú»™_‡RzOÓåôtç$»Ãÿñ+½»j[&å<ÓÀ|ŒJÑ	¹„Ö²Qs4¬eýøZ¬YwPWl¡ãá—Š³í¸U‰MÉ˜“¥’[AH’dN_šŠuÔzÌSP#ÏøTÝcÃÜ÷Çá)¨’o[Â	
+o‘1ðœ)»ÐuÄ'ì*ù¤Àü\&}<wüŸœV¤†demƒŠ‘¶&Ü^gw!­5îš¥ÓÝÌ‚Tw}È6Mkûa(¡½Àˆw0³wðnJö¦„ùª§ü§<l~£ÛgDë^]¡P[(Ô
+Õ…BæÑJ’Eõ)ê]¬-d«±E¡HmªªµjvÕEUÐ6Í6í0¿9:ÛVº¡ÖòßÁ¿ÿdÄøpüÃ8'“åx<&H‡‚ð¤¬²H@:A7¨cðFpHÑûc±ÄýñäuÄ…TOÂÿÑ)¢8“öì%Ö2Ô1O6Š”æ~­V¿Ž„º'`hr[OÞ1‚F€sÁCsÁ¾œ#›ñ¡‚Ï§
+?³¹`×Éø–“ñŸìä·œLÜoB¿M<wdîÍ¢¥KÓ¦®,*^Û:8ð¤ÑDíÉÛê¯ˆØ;ù6ë¾e³‰¢oAKó&êáE­{nrM¦æÅófÆ&ÙíE&CE ´¢íŠoù¬•™­Þ9«¾´Ñj	Ù¬µd÷@ö¯ô
+¹Ð~Ù­ðó¦ï@Ç¿‰SÝ¦á].û­1Ù€áÅò<,õj½°S£VmWÑ*¶JªBZHERRXT&ÌAUÁÛ«pü9­Ê™Tj,)YO;#á4.¶2…\9IÒSÆ€5`Ï’ÓLÞØûåž:E¹3ïrFA®v.±ÄÝE[.¥R©Ìsƒc¯6Í½>NOÊ¾Ë®bÞAIÊ#O­$g%ñ¿J‹ÖPã³háiqZµäxô¥˜`9n}É&$ñ’û Æu`)‹¾Bv¢£‰ü 	bQ8®$6Aò°	b”,~ÐYŽN`ÉjÁÏ›x¼R¬¼±òîÊG*ÙtåâÊm•7U~X™­TJ•MxW|74+;-G%ý6=ý=µ]Oé|==fYÏ·é	cõã³=Ÿ_Ê­{ê'äÛÎâLÛÄ4X—üêù#[¿ókC¡‚-¿pšß˜û•©)»*ó^éh,.í¾cÛeªöQSøÁ–š¹^wTëqš:Ô
+¾“>“Í°ÅYgw{¾}„ú]¸‚Ø‡alöÅk‚v«d¡¥ L¸î‹¿ËZ²wa4ûÖÆüÅÐ²®°öƒŸ7·ÃéòÀÑJ¨'G%Q³`Œò‘× 	ŒfZxýÇðG‘IÞì4³‚ò<®Àn†³€™÷8=>ç.½æ½3Àp
+¹$†Xá8ˆ0Q=­×pŒ3 4æ÷Û'ð^²›¯¥Ý	v|—ý@.aŽó,HÊoNÙeÈýl	¾ã¿_êÇþ“ì'"?Éí2™°™È>¾“ˆÔ³¶Ò™Þ†­­–RóŒÅ÷Ìµô—R?óÍ×(¢¥ðÚ´Æ°Ûê
+æNuEÓu™×ï)ÛZÿWjÇ³e)Us;e·0NaEæ–á¹ºË-9Œn˜wá!Ù)ÀÝrjU~w™•ÙÌÇ-bPËX€!ïÇ¿cO§Ó’d„ÇÆ~üÊÙóûËœ¸ŸÞo‘ “FÏi‚:½»Ìž{NxîÇðNrÂn³Ú.ííZV¡ÐhUA‹Â¥µ#¾¸”Ö¤tUÖ´Ô­iÑµY»¥ÅšÙº9ÖÅÒfÈ°Ay¥æ
+í•†ËÅ+ü›—}½šW'ðˆ:­v·VãýËþ@pW0~,fÄë<=´g—bqNïÔ'¸Ëµ¬ ×ú£²ËåŒxk™”\—¤“xÃ­ï-cŒhô¿­LB~ð†Ïm&KIxãQü‚­dgÿÓV²õ¨°“,7ìõ5#oNQã¹4ðU¥"¶Ä–ì¯1ñs3ÿÈü}V×5Âüu:0]¥ðÏ”¿¤¨ø¿Jï·[$-usÛÔt ó¯£•—×Ð¿‹½A=vŸT­ I°ØY¿*3ö<ý“±Öë>¿Ä·š<œZeÿo&²ÐA-Ê® õJ“Ù0UÇ‡yÊZpDù‰Cà<I)„7Z—V;¥“(Ù3ð~î2æÆüfÄœhY¿L.T8ç™g.<A^æJÆ“užM	v‡á¸X»L¢½^¿$%’®kx­V5yr+ßÄ_ãr%ñöµ]­“¥xk|—ß¯ªr54µ¹ºšz¬s\š6¹®jâêêŠŠBÛð¿œuñªV<ÙjÐØ;ÈêzGÇ”mS¨)Øþ[­öBµ=‚·œAüÇ[ìÍv·A(6aËYêüØƒÿ‡C)·étÂf³öš¡
+‡øŸ¡MØpö•Dò£nžßmö•Ìj.÷žÉ4–¦-ç¼te_¹Š¯«Ëh×õ¥”»Z&Qù›tœm :4PÌªÛDjÍô¹¾À‚Y.­÷v45+4V."ïX0ùª6³yr“¥.VrýåS^nHÍÍjgÓoè.ß^¯²j¬NÜ^Ž^¾fûÑy‰‹íÇ(Ìˆ 3µT™ì+%9¿2‚Ár‚õìµìõéÌL‚ÄZÜÁjwìxññëqÓqs	oæ} `D˜|¾úÜŽ,°<Âè(ü¥GŸÃ¿%\Ò$*6IR¬Ž×ùÊK}!Ÿ;´»´ÜRZZîsûBî]¼ÎÂó:¾:kq4†·,ñåºff†\ZÂÿŽ×•ã^js=¶ê±‚›…ÂK²ß|,V/ÕS<IÌw×³fÜ×›sÆ>¿8*å6ü;£Sì8«ÞŸ›3•…)ò¯Zÿ‡œ¦U¯ÌÔDýe&>¨IîßÑkž_JýÐ×Ë)#‡ã¥KU®QêßEŽËÎ”§—Je]%3ú3ßO¦f¾Òè>7w”Úü³¼Sà•~ifßðÅ:lnq¸JatÕ™÷3õ_giÌ;Û0ˆÌ_ºï#àù
+ç>“q‰)é®Üï/•7§Ã†ºÒÐE·Ð½†‹é«èý-¥Õ˜C:yÏ g“‡õxhÿÙ‚©ð‡(ž¡n´´û~b‰5ÄûDþÏd
+o÷Æ?~Çÿx ^G¶yc,üô<j.“F…Æ}i¥ÆM)fÎoÓe{ç]õT˜&Ñý<<7Y2¯µ$ªÕŠºÆ*¦WiÔõRRô‹{(PwËŠr„Ðÿ¡2¿Ù
+endstream
+endobj
+xref
+0 145
+0000000000 65535 f
+0000000015 00000 n
+0000000175 00000 n
+0000000256 00000 n
+0000000082 00000 n
+0000000370 00000 n
+0000000796 00000 n
+0000001236 00000 n
+0000001669 00000 n
+0000002108 00000 n
+0000002488 00000 n
+0000002528 00000 n
+0000002608 00000 n
+0000002757 00000 n
+0000002901 00000 n
+0000003133 00000 n
+0000003364 00000 n
+0000003594 00000 n
+0000003827 00000 n
+0000004059 00000 n
+0000004292 00000 n
+0000004524 00000 n
+0000004757 00000 n
+0000004987 00000 n
+0000005220 00000 n
+0000005450 00000 n
+0000005683 00000 n
+0000005913 00000 n
+0000006146 00000 n
+0000006376 00000 n
+0000006608 00000 n
+0000006839 00000 n
+0000007072 00000 n
+0000007302 00000 n
+0000007536 00000 n
+0000007766 00000 n
+0000008000 00000 n
+0000008232 00000 n
+0000008467 00000 n
+0000008697 00000 n
+0000011147 00000 n
+0000011378 00000 n
+0000011608 00000 n
+0000011842 00000 n
+0000012071 00000 n
+0000012305 00000 n
+0000012534 00000 n
+0000012768 00000 n
+0000012997 00000 n
+0000013231 00000 n
+0000013460 00000 n
+0000013694 00000 n
+0000013924 00000 n
+0000014158 00000 n
+0000014388 00000 n
+0000014622 00000 n
+0000014852 00000 n
+0000015086 00000 n
+0000015316 00000 n
+0000015550 00000 n
+0000015778 00000 n
+0000016012 00000 n
+0000016242 00000 n
+0000016474 00000 n
+0000016703 00000 n
+0000016937 00000 n
+0000017170 00000 n
+0000017405 00000 n
+0000019557 00000 n
+0000019787 00000 n
+0000020021 00000 n
+0000020251 00000 n
+0000020485 00000 n
+0000020715 00000 n
+0000020949 00000 n
+0000021179 00000 n
+0000021413 00000 n
+0000021643 00000 n
+0000021876 00000 n
+0000022105 00000 n
+0000022339 00000 n
+0000022568 00000 n
+0000022802 00000 n
+0000023032 00000 n
+0000023266 00000 n
+0000023496 00000 n
+0000023729 00000 n
+0000023958 00000 n
+0000024192 00000 n
+0000024420 00000 n
+0000024654 00000 n
+0000024884 00000 n
+0000025119 00000 n
+0000025350 00000 n
+0000025585 00000 n
+0000027918 00000 n
+0000028148 00000 n
+0000028382 00000 n
+0000028612 00000 n
+0000028846 00000 n
+0000029076 00000 n
+0000029311 00000 n
+0000029542 00000 n
+0000029777 00000 n
+0000030009 00000 n
+0000030244 00000 n
+0000030475 00000 n
+0000030709 00000 n
+0000030939 00000 n
+0000031173 00000 n
+0000031404 00000 n
+0000031639 00000 n
+0000031870 00000 n
+0000032104 00000 n
+0000032334 00000 n
+0000032569 00000 n
+0000032801 00000 n
+0000033038 00000 n
+0000033265 00000 n
+0000033500 00000 n
+0000036213 00000 n
+0000036446 00000 n
+0000036681 00000 n
+0000036912 00000 n
+0000037147 00000 n
+0000037378 00000 n
+0000037613 00000 n
+0000037846 00000 n
+0000038081 00000 n
+0000038308 00000 n
+0000038543 00000 n
+0000038774 00000 n
+0000039008 00000 n
+0000039241 00000 n
+0000039476 00000 n
+0000039706 00000 n
+0000039941 00000 n
+0000042015 00000 n
+0000042420 00000 n
+0000042791 00000 n
+0000043568 00000 n
+0000043963 00000 n
+0000044214 00000 n
+0000044459 00000 n
+0000051598 00000 n
+trailer
+<<
+/Size 145
+/Root 1 0 R
+/Info 4 0 R
+/ID [<FE4394F289B3E5AB0E7B4DB0DB5E66B0> <FE4394F289B3E5AB0E7B4DB0DB5E66B0>]
+>>
+startxref
+69328
+%%EOF
